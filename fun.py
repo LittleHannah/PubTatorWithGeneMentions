@@ -16,7 +16,6 @@ def scrap():
     f = open("./%s/pmid%s.txt"%(dir, quantity))
     all = open("./%s/all%s.txt"%(dir, quantity), 'a')
     for pmid in f.readlines():
-        print("第%d条数据：%s" % (i, pmid.strip()))
         url = r"https://www.ncbi.nlm.nih.gov/research/pubtator-api/publications/export/pubtator?pmids=" \
               + pmid.strip() + r"&concepts=gene,disease,mutation"
         try:
