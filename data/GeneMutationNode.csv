@@ -1,0 +1,4228 @@
+index,name,count,genre
+0,flc,147,Gene
+1,npr1,129,Gene
+2,etr1-1,97,Gene
+3,pin-formed1,93,Gene
+4,constitutive photomorphogenesis 1,92,Gene
+5,flower1,91,Gene
+6,bri1,86,Gene
+7,hypocotyl 5,79,Gene
+8,abi3,76,Gene
+9,phytochrome b,76,Gene
+10,pr1,74,Gene
+11,hy4,74,Gene
+12,abscisic acid-insensitive5,73,Gene
+13,coi1,73,Gene
+14,abi1,65,Gene
+15,cca1,63,Gene
+16,flowering locus t,63,Gene
+17,eir1,62,Gene
+18,dna methyltransferase 1,62,Gene
+19,apetala3,61,Gene
+20,mitogen-activated protein kinase 6,58,Gene
+21,cryptochromes 1 and 2,57,Gene
+22,pad4,57,Gene
+23,wus,56,Gene
+24,aux1,56,Gene
+25,clavata3,55,Gene
+26,toc1,54,Gene
+27,apetala1,54,Gene
+28,eds1,53,Gene
+29,suppressor of overexpression of constans 1,52,Gene
+30,heterotrimeric g protein consists of one galpha subunit (g protein alpha-subunit1,52,Gene
+31,ein2,52,Gene
+32,sid2,52,Gene
+33,gl2,50,Gene
+34,san5,49,Gene
+35,tir1,49,Gene
+36,argonaute1,47,Gene
+37,ein3,47,Gene
+38,ctr1,46,Gene
+39,dcl1,46,Gene
+40,flagellin-sensitive2,44,Gene
+41,ros1,43,Gene
+42,pif4 pif5,43,Gene
+43,rad51,43,Gene
+44,nrt1,43,Gene
+45,bak1,43,Gene
+46,agamous,42,Gene
+47,peroxidase,41,Gene
+48,cup-shaped cotyledon2,41,Gene
+49,leafy,41,Gene
+50,ask1,41,Gene
+51,phot1,41,Gene
+52,nitrate reductase,40,Gene
+53,constitutive1,40,Gene
+54,atcul1,40,Gene
+55,gl1,39,Gene
+56,constans,39,Gene
+57,dcl4,39,Gene
+58,ttg1,39,Gene
+59,lhy,38,Gene
+60,myc2,38,Gene
+61,mpk3,38,Gene
+62,rdr6,38,Gene
+63,cycb1,37,Gene
+64,stm,37,Gene
+65,as1,36,Gene
+66,glabra3,35,Gene
+67,as2,35,Gene
+68,repressor of ga1-3,34,Gene
+69,arabidopsis g protein beta-subunit1,34,Gene
+70,dcl3,34,Gene
+71,thioredoxin,33,Gene
+72,nph4,33,Gene
+73,rps2,32,Gene
+74,atirt1,32,Gene
+75,ataxia telangiectasia mutated,32,Gene
+76,abi2,32,Gene
+77,catalase2,32,Gene
+78,pif3,32,Gene
+79,clv1,32,Gene
+80,ddm1,31,Gene
+81,fusca3,31,Gene
+82,phytochromes a and b,31,Gene
+83,drb1,31,Gene
+84,tfl1,31,Gene
+85,bin2,31,Gene
+86,sos,31,Gene
+87,nrt2,30,Gene
+88,scr,30,Gene
+89,dcl2,30,Gene
+90,mpk4,29,Gene
+91,brevipedicellus,29,Gene
+92,vtc1,29,Gene
+93,siz1,28,Gene
+94,elf3,28,Gene
+95,ga1-3,28,Gene
+96,pdf1.2,28,Gene
+97,ahk4,28,Gene
+98,uvr8/gef-like 3,28,Gene
+99,ahk3,27,Gene
+100,pif4 pif5,27,Gene
+101,svp,27,Gene
+102,sos1,27,Gene
+103,sos3,27,Gene
+104,rpm1,27,Gene
+105,dreb1a,27,Gene
+106,bzr1,26,Gene
+107,sepallata3,26,Gene
+108,det1,26,Gene
+109,bzip,26,Gene
+110,phot2,26,Gene
+111,tor,26,Gene
+112,atga3ox1,26,Gene
+113,atnoa1,26,Gene
+114,frigida,26,Gene
+115,spy,26,Gene
+116,lec1,26,Gene
+117,ath1,26,Gene
+118,like heterochromatin protein 1,26,Gene
+119,variegated2,26,Gene
+120,pgr5,25,Gene
+121,atr,25,Gene
+122,snrk2.6,25,Gene
+123,cup-shaped cotyledon1,25,Gene
+124,cop9,25,Gene
+125,phytochrome interacting factor 1,25,Gene
+126,etr1-3,25,Gene
+127,pin3,25,Gene
+128,prr5,25,Gene
+129,ndr1,25,Gene
+130,mdr1,25,Gene
+131,ore9,25,Gene
+132,pdf1,24,Gene
+133,arf3,24,Gene
+134,histone deacetylase 6,24,Gene
+135,zip,24,Gene
+136,actin,24,Gene
+137,chalcone synthase,24,Gene
+138,aox1a,24,Gene
+139,aba1,23,Gene
+140,cdk,23,Gene
+141,gsh1,23,Gene
+142,axr1,23,Gene
+143,gigantea,23,Gene
+144,prr7prr9,23,Gene
+145,monopteros,23,Gene
+146,rsw1,22,Gene
+147,nia2,22,Gene
+148,uvr2,22,Gene
+149,ga1,22,Gene
+150,phospho-gluco mutase,22,Gene
+151,hsfa2,22,Gene
+152,dmc1,21,Gene
+153,eto1-1,21,Gene
+154,amt1,21,Gene
+155,eli1,21,Gene
+156,cmt3,21,Gene
+157,atcul4,21,Gene
+158,ein5,20,Gene
+159,pho 2,20,Gene
+160,angustifolia3,20,Gene
+161,spl,20,Gene
+162,pldalpha1,20,Gene
+163,hy1,20,Gene
+164,na+/h+ antiporter,20,Gene
+165,phosphatase 2a,20,Gene
+166,ahk2,20,Gene
+167,nced3,20,Gene
+168,sal1,20,Gene
+169,rdr2,19,Gene
+170,rin4,19,Gene
+171,chromatin assembly factor 1,19,Gene
+172,wox5,19,Gene
+173,erecta,19,Gene
+174,prr9,19,Gene
+175,cenh3,19,Gene
+176,pennywise,19,Gene
+177,cbp80,19,Gene
+178,corymbosa2,19,Gene
+179,arr1,19,Gene
+180,clv2-4,19,Gene
+181,swi2,19,Gene
+182,det2,19,Gene
+183,pep,19,Gene
+184,spa1,19,Gene
+185,prc1,19,Gene
+186,akt1,18,Gene
+187,filamentous flower,18,Gene
+188,cor15a,18,Gene
+189,arf19,18,Gene
+190,nedd8,18,Gene
+191,axr2,18,Gene
+192,curly leaf,18,Gene
+193,apx1,18,Gene
+194,lec2,18,Gene
+195,hfr1,18,Gene
+196,dnd1,18,Gene
+197,max4,18,Gene
+198,vtc2,18,Gene
+199,p5cs1,18,Gene
+200,drm2,18,Gene
+201,cbl1,18,Gene
+202,acaulis5,17,Gene
+203,alternative oxidase,17,Gene
+204,edr1,17,Gene
+205,superroot2,17,Gene
+206,bes1,17,Gene
+207,arp2,17,Gene
+208,stn7,17,Gene
+209,fkf1,17,Gene
+210,ku70,17,Gene
+211,cbf1,17,Gene
+212,cpc,17,Gene
+213,korrigan1-2,17,Gene
+214,rgl2,17,Gene
+215,sgt1b,17,Gene
+216,gibberellin-20 oxidase,17,Gene
+217,sgs3,17,Gene
+218,cat2 sid2,17,Gene
+219,atp synthase,17,Gene
+220,heat shock protein 70,17,Gene
+221,rd29b,17,Gene
+222,atpip1;2,17,Gene
+223,cycd3;1,16,Gene
+224,cellulose synthase,16,Gene
+225,actin2,16,Gene
+226,chitin elicitor receptor kinase1,16,Gene
+227,testa8,16,Gene
+228,attoc33,16,Gene
+229,enhancer of gl3,16,Gene
+230,ost1,16,Gene
+231,knat2,16,Gene
+232,rar1,16,Gene
+233,cad2,16,Gene
+234,ga2ox2,16,Gene
+235,cop1,16,Gene
+236,cytochrome c,16,Gene
+237,pho1-2,16,Gene
+238,psbs,16,Gene
+239,dwarf4,16,Gene
+240,atspo11-1,16,Gene
+241,pap1,16,Gene
+242,vte1,16,Gene
+243,adh1,16,Gene
+244,eds5,16,Gene
+245,cpr1,16,Gene
+246,kat1,16,Gene
+247,argonaute4,16,Gene
+248,phytochelatin synthase 1,16,Gene
+249,toc159,16,Gene
+250,hookless1,16,Gene
+251,heat shock protein101,16,Gene
+252,revoluta,16,Gene
+253,dreb2a,15,Gene
+254,abf2,15,Gene
+255,receptor-like kinases,15,Gene
+256,bonzai1,15,Gene
+257,eto2,15,Gene
+258,atsuc2,15,Gene
+259,cax1,15,Gene
+260,somatic embryogenesis receptor-like kinase 1,15,Gene
+261,atpgp1,15,Gene
+262,jar1,15,Gene
+263,irx3,15,Gene
+264,aintegumenta,15,Gene
+265,cbf2,15,Gene
+266,pid,15,Gene
+267,erf1,15,Gene
+268,ettin,15,Gene
+269,ssi2,15,Gene
+270,bip2,15,Gene
+271,serrate,15,Gene
+272,pickle,15,Gene
+273,syntaxin,15,Gene
+274,gid1a,15,Gene
+275,sly1,15,Gene
+276,csr1-1,15,Gene
+277,elf4,14,Gene
+278,zeitlupe,14,Gene
+279,myosin,14,Gene
+280,short-root,14,Gene
+281,cyclin,14,Gene
+282,med25,14,Gene
+283,fruitfull,14,Gene
+284,blade-on-petiole1,14,Gene
+285,chlh,14,Gene
+286,big,14,Gene
+287,spatula,14,Gene
+288,bop2,14,Gene
+289,atcul3a,14,Gene
+290,pyr1,14,Gene
+291,multifolia1,14,Gene
+292,fro2,14,Gene
+293,mre11,14,Gene
+294,rps4,14,Gene
+295,fhy3,14,Gene
+296,histone deacetylase 1,14,Gene
+297,cpr5,14,Gene
+298,mitogen-activated protein kinase,14,Gene
+299,map kinase phosphatase 1,14,Gene
+300,hexokinase1,14,Gene
+301,abi1,14,Gene
+302,cer6,14,Gene
+303,plt1,14,Gene
+304,ice1,14,Gene
+305,pr2,14,Gene
+306,muts homolog 2,14,Gene
+307,glycine-rich rna binding protein 7,14,Gene
+308,wrky6,13,Gene
+309,irx9,13,Gene
+310,kanadi1,13,Gene
+311,suppressor of frigida 3,13,Gene
+312,shp2,13,Gene
+313,hab1,13,Gene
+314,mus81,13,Gene
+315,atbzip60,13,Gene
+316,powdery mildew resistant 4,13,Gene
+317,mir164a,13,Gene
+318,abf3,13,Gene
+319,athkt1,13,Gene
+320,kinase1,13,Gene
+321,cad1,13,Gene
+322,iaa19,13,Gene
+323,dog1,13,Gene
+324,ost2,13,Gene
+325,kin10,13,Gene
+326,lba1,13,Gene
+327,mir165a,13,Gene
+328,max3,13,Gene
+329,mir172,13,Gene
+330,dwf1,13,Gene
+331,iaa17,13,Gene
+332,sex1,13,Gene
+333,acs2,13,Gene
+334,mto1-1,13,Gene
+335,atrecq4a,13,Gene
+336,alb3,13,Gene
+337,lesion simulating disease1,13,Gene
+338,pex5,13,Gene
+339,pxa1,13,Gene
+340,rga-like1,13,Gene
+341,lox2,13,Gene
+342,ms1,13,Gene
+343,ein4,13,Gene
+344,sog1,13,Gene
+345,retinoblastoma-related1,13,Gene
+346,hyh,12,Gene
+347,ugt74f2,12,Gene
+348,tsf,12,Gene
+349,kryptonite,12,Gene
+350,rec8,12,Gene
+351,nph3,12,Gene
+352,atg5,12,Gene
+353,aba2,12,Gene
+354,ore1,12,Gene
+355,feronia,12,Gene
+356,atpgp1,12,Gene
+357,general control nonrepressible protein 5,12,Gene
+358,psbo1,12,Gene
+359,sag12,12,Gene
+360,van7,12,Gene
+361,rd29a,12,Gene
+362,abf4,12,Gene
+363,yucca1,12,Gene
+364,fad2,12,Gene
+365,reversion-to-ethylene sensitivity1,12,Gene
+366,ftsh5,12,Gene
+367,pyk10,12,Gene
+368,tpc1,12,Gene
+369,acetyl-coenzyme a synthetase,12,Gene
+370,cuc3,12,Gene
+371,wrky33,12,Gene
+372,athsp93-v,12,Gene
+373,upf3,12,Gene
+374,dgat1,12,Gene
+375,inflorescence deficient in abscission,12,Gene
+376,root phototropism 2,12,Gene
+377,histone 2b,12,Gene
+378,iaa3,12,Gene
+379,rhd3,12,Gene
+380,myb75,11,Gene
+381,eto3,11,Gene
+382,yucca4,11,Gene
+383,crl,11,Gene
+384,arf1,11,Gene
+385,nst1,11,Gene
+386,mom,11,Gene
+387,ers1,11,Gene
+388,eil1,11,Gene
+389,esk-1,11,Gene
+390,ago1,11,Gene
+391,telomerase reverse transcriptase,11,Gene
+392,wrky70,11,Gene
+393,era1-2,11,Gene
+394,atmsh4,11,Gene
+395,nrpe1,11,Gene
+396,exo70a1,11,Gene
+397,nap1,11,Gene
+398,multicopy suppressor of ira 1,11,Gene
+399,cpl1,11,Gene
+400,knat6,11,Gene
+401,opr3,11,Gene
+402,pip1,11,Gene
+403,atprmt5,11,Gene
+404,max1,11,Gene
+405,toc75,11,Gene
+406,ahg3,11,Gene
+407,atpdx1,11,Gene
+408,kat2,11,Gene
+409,proline dehydrogenase,11,Gene
+410,iaa14,11,Gene
+411,wrinkled1,11,Gene
+412,pgm,11,Gene
+413,hos1,11,Gene
+414,arf4,11,Gene
+415,fad3,11,Gene
+416,"ataf1/2, and cuc",11,Gene
+417,fhy1,11,Gene
+418,sel1,11,Gene
+419,irx14,11,Gene
+420,tga2,11,Gene
+421,lov1,11,Gene
+422,arf2,11,Gene
+423,phytoclock 1,11,Gene
+424,lyase,11,Gene
+425,wrky40,11,Gene
+426,glutamine synthetase,11,Gene
+427,hexokinase,11,Gene
+428,irx1,11,Gene
+429,hub1,11,Gene
+430,apx2,11,Gene
+431,rbx1,10,Gene
+432,atxr5,10,Gene
+433,auxin response factor 8,10,Gene
+434,mkk5,10,Gene
+435,nad2,10,Gene
+436,snd1,10,Gene
+437,pr-5,10,Gene
+438,tho1,10,Gene
+439,sumo1,10,Gene
+440,myc4,10,Gene
+441,eif4e,10,Gene
+442,athak5,10,Gene
+443,lipoxygenase,10,Gene
+444,rcn1,10,Gene
+445,seedstick,10,Gene
+446,nam,10,Gene
+447,plt2,10,Gene
+448,rps5,10,Gene
+449,vti11,10,Gene
+450,rop2,10,Gene
+451,cor47,10,Gene
+452,arabidopsis thaliana meristem layer 1,10,Gene
+453,rcd1,10,Gene
+454,gamma-h2ax,10,Gene
+455,gsh2,10,Gene
+456,sgr1,10,Gene
+457,tt18,10,Gene
+458,atcngc4,10,Gene
+459,npr1,10,Gene
+460,cyp79b2/b3,10,Gene
+461,wrky53,10,Gene
+462,cbp20,10,Gene
+463,brahma,10,Gene
+464,immunophilin,10,Gene
+465,kin1,10,Gene
+466,pin7,10,Gene
+467,fab1,10,Gene
+468,pin4,10,Gene
+469,cer3,10,Gene
+470,crt1/2,10,Gene
+471,nramp3,10,Gene
+472,induced,10,Gene
+473,fie,10,Gene
+474,parp2,10,Gene
+475,fugu5,10,Gene
+476,atalmt1,10,Gene
+477,cyclin b1,10,Gene
+478,ttg2,10,Gene
+479,med16,10,Gene
+480,atsuc2-4,10,Gene
+481,cax3,10,Gene
+482,medea,10,Gene
+483,protein phosphatase 2a,10,Gene
+484,myc3,10,Gene
+485,atnramp4,10,Gene
+486,nrpd1a,10,Gene
+487,tt2,10,Gene
+488,acs4-9,10,Gene
+489,seuss,10,Gene
+490,shatterproof1,10,Gene
+491,crinkly4,10,Gene
+492,branched1,10,Gene
+493,stn8,10,Gene
+494,mur1,10,Gene
+495,far1,10,Gene
+496,da1,9,Gene
+497,cbl,9,Gene
+498,gid1b,9,Gene
+499,clpp,9,Gene
+500,gid1c,9,Gene
+501,icu4,9,Gene
+502,atrr1-4,9,Gene
+503,brca1,9,Gene
+504,recognition,9,Gene
+505,crabs claw,9,Gene
+506,pseudo-response regulator 7,9,Gene
+507,atmms21,9,Gene
+508,drp3b,9,Gene
+509,atha2,9,Gene
+510,attic40,9,Gene
+511,phospholipase ddelta,9,Gene
+512,myb33,9,Gene
+513,atem6,9,Gene
+514,ubp,9,Gene
+515,peroxidase2,9,Gene
+516,atg7,9,Gene
+517,asy1,9,Gene
+518,phabulosa,9,Gene
+519,glycerol-3-phosphate acyltransferase,9,Gene
+520,cab1,9,Gene
+521,fwa,9,Gene
+522,superman,9,Gene
+523,bzip28,9,Gene
+524,fra1-5,9,Gene
+525,iaa1,9,Gene
+526,glutathione reductase,9,Gene
+527,bip3,9,Gene
+528,arr12,9,Gene
+529,vps29,9,Gene
+530,pex7,9,Gene
+531,rrs1,9,Gene
+532,atzyp1,9,Gene
+533,o-acetylserine(thiol)lyase,9,Gene
+534,microrna166/165,9,Gene
+535,cbl2,9,Gene
+536,cvp1-3,9,Gene
+537,toc34,9,Gene
+538,gun1,9,Gene
+539,pad2,9,Gene
+540,ozs1,9,Gene
+541,dfr,9,Gene
+542,drb4,9,Gene
+543,rpt2a,9,Gene
+544,pap2,9,Gene
+545,ago2,9,Gene
+546,sigma factor 6,9,Gene
+547,aba3,9,Gene
+548,triptychon,9,Gene
+549,pht1;4,9,Gene
+550,fls1,9,Gene
+551,phytoalexin-deficient3,9,Gene
+552,dgd1,9,Gene
+553,hma4,9,Gene
+554,atxr6,9,Gene
+555,clv2-coryne,9,Gene
+556,taa1,9,Gene
+557,mitogen-activated protein kinase kinase,9,Gene
+558,rad50,9,Gene
+559,twd1,9,Gene
+560,arc5,9,Gene
+561,vte2,9,Gene
+562,rad51,9,Gene
+563,atrad1p,9,Gene
+564,atrgs1,9,Gene
+565,nadph:protochlorophyllide oxidoreductase,9,Gene
+566,haesa,9,Gene
+567,hy2,9,Gene
+568,vin3,9,Gene
+569,arc6,9,Gene
+570,nad4,9,Gene
+571,ibm1,9,Gene
+572,atpdr12,9,Gene
+573,aldehyde oxidase,9,Gene
+574,pom-pom1,9,Gene
+575,gcr1,9,Gene
+576,haesa-like 2,9,Gene
+577,jaz1,9,Gene
+578,cyclophilin,9,Gene
+579,atlig4,9,Gene
+580,vam3,9,Gene
+581,mir160,9,Gene
+582,adg1-1,9,Gene
+583,drp3a,9,Gene
+584,ckx3,9,Gene
+585,atem1,9,Gene
+586,bak1-interacting receptor-like kinase1-1,9,Gene
+587,phe ammonia lyase 1,9,Gene
+588,cpsf30,8,Gene
+589,npq1,8,Gene
+590,rhd6,8,Gene
+591,fasciata1,8,Gene
+592,cct,8,Gene
+593,iaa2,8,Gene
+594,malate dehydrogenase,8,Gene
+595,fadd,8,Gene
+596,sar1,8,Gene
+597,ca1,8,Gene
+598,hema1,8,Gene
+599,cer5,8,Gene
+600,toc132,8,Gene
+601,atmlh1,8,Gene
+602,pii,8,Gene
+603,mgd1,8,Gene
+604,demeter,8,Gene
+605,"bam1, 2 and 3",8,Gene
+606,katamari1,8,Gene
+607,ask2,8,Gene
+608,agg2,8,Gene
+609,npr1-5,8,Gene
+610,"ataf1/2, and cuc",8,Gene
+611,pot1a,8,Gene
+612,ada2b,8,Gene
+613,serk2,8,Gene
+614,atmine1,8,Gene
+615,pen2,8,Gene
+616,mterf,8,Gene
+617,cor6.6,8,Gene
+618,irx4,8,Gene
+619,arc3,8,Gene
+620,cyr1,8,Gene
+621,fad5,8,Gene
+622,pht1;1/2/3,8,Gene
+623,ufo,8,Gene
+624,mir399,8,Gene
+625,nadph-thioredoxin reductase c,8,Gene
+626,agg1,8,Gene
+627,3-hydroxy-3-methylglutaryl-coa-reductase,8,Gene
+628,fragile fiber8,8,Gene
+629,nlp7,8,Gene
+630,sco2,8,Gene
+631,arr2,8,Gene
+632,cki1,8,Gene
+633,ga20ox2,8,Gene
+634,protein kinase,8,Gene
+635,acr4,8,Gene
+636,bak1,8,Gene
+637,rab18,8,Gene
+638,calmodulin-binding transcription activator3,8,Gene
+639,enhancer of try and cpc1,8,Gene
+640,thf1,8,Gene
+641,als3,8,Gene
+642,pir121/sra-1,8,Gene
+643,pie1,8,Gene
+644,squamosa promoter binding protein-like 7,8,Gene
+645,mekk1-1,8,Gene
+646,early flowering in short days,8,Gene
+647,scf,8,Gene
+648,xlg2,8,Gene
+649,mum-1,8,Gene
+650,pin1,8,Gene
+651,atnudx6 and 7,8,Gene
+652,heat shock factor,8,Gene
+653,act1,8,Gene
+654,rd22,8,Gene
+655,atsuc1,8,Gene
+656,leunig,8,Gene
+657,regulatory-associated protein of tor 1b,8,Gene
+658,tilted1,8,Gene
+659,toadstool2,8,Gene
+660,gun4,8,Gene
+661,glutathione peroxidase,8,Gene
+662,arf10,8,Gene
+663,lhcb2.4,8,Gene
+664,kc1,8,Gene
+665,mitogen-activated protein kinase kinase 4,8,Gene
+666,cp26,8,Gene
+667,cbl9,8,Gene
+668,adc,8,Gene
+669,dpe2,8,Gene
+670,synthase iv,8,Gene
+671,agl24,8,Gene
+672,rac,8,Gene
+673,microtubule-associated protein,8,Gene
+674,rpt5a,8,Gene
+675,gai,7,Gene
+676,snx1,7,Gene
+677,cbp60g,7,Gene
+678,indehiscent,7,Gene
+679,ddb1a,7,Gene
+680,annexin1,7,Gene
+681,lbd18,7,Gene
+682,nramp1,7,Gene
+683,bodenlos,7,Gene
+684,ca2,7,Gene
+685,phs1,7,Gene
+686,drp2b,7,Gene
+687,cyp97c1,7,Gene
+688,d14,7,Gene
+689,cop10,7,Gene
+690,arr6,7,Gene
+691,adc2,7,Gene
+692,brick1,7,Gene
+693,kan2,7,Gene
+694,rop1,7,Gene
+695,psab,7,Gene
+696,inner no outer,7,Gene
+697,maf4,7,Gene
+698,fad7,7,Gene
+699,myb12,7,Gene
+700,arf16,7,Gene
+701,amt2,7,Gene
+702,keep on going,7,Gene
+703,mir159,7,Gene
+704,calreticulin3,7,Gene
+705,rpp4,7,Gene
+706,hub2,7,Gene
+707,cytochrome b,7,Gene
+708,ems1,7,Gene
+709,maf5,7,Gene
+710,tga1 tga4,7,Gene
+711,ers2,7,Gene
+712,stt3a,7,Gene
+713,sobir,7,Gene
+714,pep1 receptor1,7,Gene
+715,fancm,7,Gene
+716,zip1,7,Gene
+717,lbd16,7,Gene
+718,syp61,7,Gene
+719,blh6-knat7,7,Gene
+720,"bam1, 2 and 3",7,Gene
+721,morf8,7,Gene
+722,myb21,7,Gene
+723,like-aux1 3,7,Gene
+724,nac019,7,Gene
+725,homeobox arabidopsis thaliana 1,7,Gene
+726,tic20,7,Gene
+727,radialis-like sant/myb 1-4,7,Gene
+728,chlorina1-1,7,Gene
+729,wrky18,7,Gene
+730,vsp2,7,Gene
+731,xrn3,7,Gene
+732,flowering locus m,7,Gene
+733,drd1-6,7,Gene
+734,bsk1,7,Gene
+735,lpr1,7,Gene
+736,histone deacetylase 9,7,Gene
+737,gs2,7,Gene
+738,sty1,7,Gene
+739,pistillata,7,Gene
+740,trehalose-6-phosphate synthase,7,Gene
+741,"barely any meristem 1, 2 and 3",7,Gene
+742,atmkk6/8,7,Gene
+743,rot3,7,Gene
+744,arf6,7,Gene
+745,nack1,7,Gene
+746,val1,7,Gene
+747,atipk1,7,Gene
+748,acd1,7,Gene
+749,atmyb44,7,Gene
+750,lrx1,7,Gene
+751,cpk11,7,Gene
+752,dad1,7,Gene
+753,aps1,7,Gene
+754,s-adenosylmethionine synthetase,7,Gene
+755,csn5,7,Gene
+756,syp121,7,Gene
+757,caspase 8,7,Gene
+758,pex5-10,7,Gene
+759,ku80,7,Gene
+760,ppi1,7,Gene
+761,atsuc2-4,7,Gene
+762,knolle,7,Gene
+763,gata,7,Gene
+764,ire1b,7,Gene
+765,abcc1/2,7,Gene
+766,tgd1,7,Gene
+767,beta-glucuronidase,7,Gene
+768,bor1,7,Gene
+769,yucca8,7,Gene
+770,brx,7,Gene
+771,mgoun3,7,Gene
+772,pin2,7,Gene
+773,plasma membrane h+-atpase,7,Gene
+774,bax inhibitor-1,7,Gene
+775,bik1,7,Gene
+776,voz2,7,Gene
+777,kluh,7,Gene
+778,jaz10,7,Gene
+779,hsc70,7,Gene
+780,heat shock protein,7,Gene
+781,drb2,7,Gene
+782,jac1,7,Gene
+783,akt2,7,Gene
+784,ysl3,7,Gene
+785,aca8,7,Gene
+786,hth,7,Gene
+787,spo11,7,Gene
+788,prp8,7,Gene
+789,fis2,7,Gene
+790,skd1,7,Gene
+791,irx8,7,Gene
+792,cer22,7,Gene
+793,atralf1,7,Gene
+794,vit1-1,7,Gene
+795,vascular plant one-zinc finger1,7,Gene
+796,pht1;4,7,Gene
+797,chitinase-like1,7,Gene
+798,plastid terminal oxidase,7,Gene
+799,time for coffee,7,Gene
+800,fca,6,Gene
+801,pip,6,Gene
+802,tcp4,6,Gene
+803,frd3,6,Gene
+804,cesa4/irregular xylem5,6,Gene
+805,atcngc1,6,Gene
+806,cdc48,6,Gene
+807,pop2,6,Gene
+808,npr1,6,Gene
+809,cytochrome p450 monooxygenase,6,Gene
+810,atfer1,6,Gene
+811,defective kernel1,6,Gene
+812,dde2-2,6,Gene
+813,sar3,6,Gene
+814,arc1,6,Gene
+815,arr10,6,Gene
+816,ahl,6,Gene
+817,pora,6,Gene
+818,e3 ubiquitin ligase,6,Gene
+819,sce1,6,Gene
+820,myb101,6,Gene
+821,acs7,6,Gene
+822,myb23,6,Gene
+823,peroxin13,6,Gene
+824,elongator subunit 2,6,Gene
+825,cer2,6,Gene
+826,atpdr8,6,Gene
+827,vnd7,6,Gene
+828,like auxin resistant1-3,6,Gene
+829,cad1-6,6,Gene
+830,atrad54,6,Gene
+831,cipk23,6,Gene
+832,nip5;1,6,Gene
+833,gst1,6,Gene
+834,ibr5,6,Gene
+835,"cytochrome p450, family 707, subfamily a, polypeptide 2",6,Gene
+836,cnx1,6,Gene
+837,haiku2,6,Gene
+838,nima-related kinase 6,6,Gene
+839,hap2,6,Gene
+840,glycosyltransferase,6,Gene
+841,lacs2,6,Gene
+842,pph1,6,Gene
+843,calcineurin b-like10,6,Gene
+844,cyp71a13,6,Gene
+845,toc120,6,Gene
+846,tetraspore,6,Gene
+847,pheres1,6,Gene
+848,elip1,6,Gene
+849,mlo2,6,Gene
+850,strubbelig,6,Gene
+851,vsp1,6,Gene
+852,"beta-1,3",6,Gene
+853,pks1,6,Gene
+854,atgrp8,6,Gene
+855,nmt1,6,Gene
+856,east1,6,Gene
+857,mdr4,6,Gene
+858,porb,6,Gene
+859,er-like1,6,Gene
+860,acd11,6,Gene
+861,tt5,6,Gene
+862,psbo2,6,Gene
+863,gsl8,6,Gene
+864,tt19,6,Gene
+865,wee1,6,Gene
+866,atmkk2,6,Gene
+867,mini3,6,Gene
+868,serine palmitoyltransferase,6,Gene
+869,rgl3,6,Gene
+870,duo1,6,Gene
+871,atml1,6,Gene
+872,topless,6,Gene
+873,sur1,6,Gene
+874,tic110,6,Gene
+875,spr1,6,Gene
+876,purple acid phosphatase 1,6,Gene
+877,bkk1,6,Gene
+878,eta2,6,Gene
+879,ein3 binding f-box protein1,6,Gene
+880,dehydroascorbate reductase,6,Gene
+881,bypass1,6,Gene
+882,calmodulin,6,Gene
+883,irx14-l,6,Gene
+884,tpd1,6,Gene
+885,protein kinase avrpphb susceptible1,6,Gene
+886,myb46,6,Gene
+887,acs4,6,Gene
+888,clpr1-4,6,Gene
+889,acx1acx2,6,Gene
+890,cyclin a1;2-2,6,Gene
+891,atm3,6,Gene
+892,iar2,6,Gene
+893,ysl1,6,Gene
+894,rhd2,6,Gene
+895,pathogenesis-related-1,6,Gene
+896,atnup160,6,Gene
+897,atga3ox2,6,Gene
+898,hal3a,6,Gene
+899,cruciferin3,6,Gene
+900,ahp2,6,Gene
+901,rpn1a,6,Gene
+902,hsp18.2,6,Gene
+903,xrn2,6,Gene
+904,knopf,6,Gene
+905,npr1-5,6,Gene
+906,hsfa1b,6,Gene
+907,myb24,6,Gene
+908,pen1,6,Gene
+909,ebf2,6,Gene
+910,gpt2,6,Gene
+911,sum3,6,Gene
+912,hat3,6,Gene
+913,abcc1/2,6,Gene
+914,"trk1,2",6,Gene
+915,abcg11,6,Gene
+916,rpn10,6,Gene
+917,pht1;4,6,Gene
+918,hap3,6,Gene
+919,idm1,6,Gene
+920,gcn2,6,Gene
+921,emf1-1,6,Gene
+922,zat10,6,Gene
+923,kat1,6,Gene
+924,actin-related protein2/3,6,Gene
+925,atfut1,6,Gene
+926,cyp79b3,6,Gene
+927,peup1,6,Gene
+928,poly (adp-ribose) polymerase-2,6,Gene
+929,atdcp2,6,Gene
+930,tgg1,6,Gene
+931,rev3,6,Gene
+932,irx10,6,Gene
+933,thioglucoside glucohydrolase2,6,Gene
+934,yucca6,6,Gene
+935,abf1,6,Gene
+936,nai1,6,Gene
+937,jub1,6,Gene
+938,myb30,6,Gene
+939,dynamin-related protein1a,6,Gene
+940,sig1-6,6,Gene
+941,diacylglycerol acyltransferase,6,Gene
+942,drd1,6,Gene
+943,rubisco activase,6,Gene
+944,lec1-like,6,Gene
+945,antioxidant protein1,6,Gene
+946,acos5,6,Gene
+947,argos,6,Gene
+948,fld,6,Gene
+949,ara7,6,Gene
+950,why1,6,Gene
+951,shb1,6,Gene
+952,atvps34,6,Gene
+953,miz1,6,Gene
+954,afb2,6,Gene
+955,atpskr1,6,Gene
+956,agc1-3,6,Gene
+957,atpap26,6,Gene
+958,atrr1-4,6,Gene
+959,rbohf,6,Gene
+960,pin,6,Gene
+961,atmsh7,6,Gene
+962,exportin1,6,Gene
+963,zip2,6,Gene
+964,xi-2,6,Gene
+965,ref8,6,Gene
+966,tcp15,6,Gene
+967,ctc1,6,Gene
+968,psk-alpha,6,Gene
+969,tem2,6,Gene
+970,cp24,6,Gene
+971,ice2,6,Gene
+972,map65-3,6,Gene
+973,yuc2yuc6,6,Gene
+974,sod2,6,Gene
+975,ps2,6,Gene
+976,atmyb80,6,Gene
+977,atlsm5,6,Gene
+978,rpp5,6,Gene
+979,crinkly4,6,Gene
+980,pinhead,6,Gene
+981,respiratory burst oxidase homologue d,6,Gene
+982,gux1gux2,6,Gene
+983,atpep1,6,Gene
+984,anp3,6,Gene
+985,drp1e,6,Gene
+986,ferulate 5-hydroxylase,6,Gene
+987,clpr1-4,5,Gene
+988,tga2/3/5/6,5,Gene
+989,quasimodo 1,5,Gene
+990,ate1,5,Gene
+991,rangap1,5,Gene
+992,rdr1,5,Gene
+993,testa10,5,Gene
+994,elongation factor tu receptor,5,Gene
+995,sg1,5,Gene
+996,amsh3,5,Gene
+997,acbp6,5,Gene
+998,lateral organ boundaries-domain29,5,Gene
+999,gal4,5,Gene
+1000,fad3/7/8,5,Gene
+1001,lsp1,5,Gene
+1002,atxyl1,5,Gene
+1003,pgr1,5,Gene
+1004,glucan synthase-like 10,5,Gene
+1005,etc2,5,Gene
+1006,cpk3,5,Gene
+1007,kea1,5,Gene
+1008,atmrs2-10,5,Gene
+1009,icu2,5,Gene
+1010,atcsld3,5,Gene
+1011,callose synthase5,5,Gene
+1012,irx1 irx8,5,Gene
+1013,mtp1,5,Gene
+1014,atrnr1,5,Gene
+1015,1-deoxy-d-xylulose 5-phosphate synthase,5,Gene
+1016,atb1,5,Gene
+1017,athb8,5,Gene
+1018,atham1,5,Gene
+1019,nin,5,Gene
+1020,aprr3,5,Gene
+1021,arabidopsis aldehyde oxidase 3,5,Gene
+1022,mum2,5,Gene
+1023,mcm2-7,5,Gene
+1024,gux1gux2,5,Gene
+1025,drp1c,5,Gene
+1026,jmj14,5,Gene
+1027,mir319,5,Gene
+1028,atrdh1,5,Gene
+1029,radialis-like sant/myb 1-4,5,Gene
+1030,cer10,5,Gene
+1031,receptor-like kinase,5,Gene
+1032,auxin-binding protein1,5,Gene
+1033,bbx24,5,Gene
+1034,nmt2,5,Gene
+1035,cadmium-sensitive1-3,5,Gene
+1036,gly1-3,5,Gene
+1037,ultrapetala1,5,Gene
+1038,pec1,5,Gene
+1039,raba4b,5,Gene
+1040,agg3,5,Gene
+1041,phospholipase d,5,Gene
+1042,yuc9,5,Gene
+1043,ndb2,5,Gene
+1044,kai2,5,Gene
+1045,xxt2,5,Gene
+1046,uv-ddb1,5,Gene
+1047,abcg26,5,Gene
+1048,myb90,5,Gene
+1049,atrev1,5,Gene
+1050,pat1,5,Gene
+1051,cpk4,5,Gene
+1052,werewolf,5,Gene
+1053,dcl1,5,Gene
+1054,hisn6a,5,Gene
+1055,anr1,5,Gene
+1056,pasticcino2,5,Gene
+1057,npf7.3,5,Gene
+1058,col-1,5,Gene
+1059,atcrr2,5,Gene
+1060,tgacg-binding factor 1,5,Gene
+1061,autophagy protein 6,5,Gene
+1062,cyp97a3,5,Gene
+1063,atrad51c,5,Gene
+1064,fab1a,5,Gene
+1065,sr45,5,Gene
+1066,oep16-1,5,Gene
+1067,bas1,5,Gene
+1068,hua2,5,Gene
+1069,gr1,5,Gene
+1070,pyl9,5,Gene
+1071,sdd1,5,Gene
+1072,pat3,5,Gene
+1073,trehalose-6-phosphate phosphatase,5,Gene
+1074,drb5,5,Gene
+1075,vernalization2,5,Gene
+1076,arabidopsis thaliana recognized1,5,Gene
+1077,myb83,5,Gene
+1078,erl2,5,Gene
+1079,ndpk2,5,Gene
+1080,cca1,5,Gene
+1081,agd5,5,Gene
+1082,ggt1,5,Gene
+1083,stn1,5,Gene
+1084,tip1;2,5,Gene
+1085,spl3,5,Gene
+1086,bap1,5,Gene
+1087,mex1,5,Gene
+1088,chli 1,5,Gene
+1089,sec8,5,Gene
+1090,auxin response factor17,5,Gene
+1091,ddf1,5,Gene
+1092,3-ketoacyl-coa thiolase-2,5,Gene
+1093,des1,5,Gene
+1094,tas2,5,Gene
+1095,rdo2,5,Gene
+1096,fas2,5,Gene
+1097,sac51,5,Gene
+1098,cpl3,5,Gene
+1099,prolifera,5,Gene
+1100,shmt1,5,Gene
+1101,actin7,5,Gene
+1102,atpip1;2,5,Gene
+1103,topoisomerase 3alpha,5,Gene
+1104,receptor-like protein kinase1,5,Gene
+1105,rpp8,5,Gene
+1106,sdg2,5,Gene
+1107,pot1b,5,Gene
+1108,cand1,5,Gene
+1109,yuc2yuc6,5,Gene
+1110,atxr7,5,Gene
+1111,fasciclin-like arabinogalactan protein 4,5,Gene
+1112,spa3,5,Gene
+1113,drp2a,5,Gene
+1114,be2,5,Gene
+1115,rop10,5,Gene
+1116,mir163,5,Gene
+1117,atsos4,5,Gene
+1118,glabrous inflorescence stems,5,Gene
+1119,glutaredoxin,5,Gene
+1120,mgoun1,5,Gene
+1121,drb3,5,Gene
+1122,spl9,5,Gene
+1123,fad6,5,Gene
+1124,rack1a,5,Gene
+1125,cycling dof factor 1,5,Gene
+1126,acbp2,5,Gene
+1127,ugp,5,Gene
+1128,clc-a,5,Gene
+1129,cer8,5,Gene
+1130,pgi1-2,5,Gene
+1131,pressed flower,5,Gene
+1132,mer3,5,Gene
+1133,myb3,5,Gene
+1134,ski8,5,Gene
+1135,athb2,5,Gene
+1136,pdf2,5,Gene
+1137,nced6,5,Gene
+1138,athsp93-iii,5,Gene
+1139,atclh1,5,Gene
+1140,ftsz,5,Gene
+1141,peroxin14,5,Gene
+1142,rbcl,5,Gene
+1143,ors1,5,Gene
+1144,lip1,5,Gene
+1145,cbl3,5,Gene
+1146,stop1,5,Gene
+1147,pss1,5,Gene
+1148,e2fb,5,Gene
+1149,cum2,5,Gene
+1150,kat1,5,Gene
+1151,lkr/sdh,5,Gene
+1152,myb28,5,Gene
+1153,cauliflower,5,Gene
+1154,cad1-6,5,Gene
+1155,chlorophyll a/b binding protein2,5,Gene
+1156,ribosomal protein s14,5,Gene
+1157,atrecq4a and 4b,5,Gene
+1158,edr2,5,Gene
+1159,pin5,5,Gene
+1160,fpa,5,Gene
+1161,long-chain base1,5,Gene
+1162,msh6,5,Gene
+1163,cobra,5,Gene
+1164,spp,5,Gene
+1165,dag1,5,Gene
+1166,nucleoporin,5,Gene
+1167,gcn5,5,Gene
+1168,pph,5,Gene
+1169,variant in methylation 1,5,Gene
+1170,overexpressor of cationic peroxidase 3,5,Gene
+1171,spo11-2,5,Gene
+1172,skor,5,Gene
+1173,nhx1p,5,Gene
+1174,pldzeta2,5,Gene
+1175,pif1,5,Gene
+1176,shk1,5,Gene
+1177,secret agent,5,Gene
+1178,hyd1,5,Gene
+1179,phyc,5,Gene
+1180,acs8,5,Gene
+1181,pleiotropic regulatory locus1,5,Gene
+1182,csn1,5,Gene
+1183,regulator of axillary meristems1,5,Gene
+1184,atswi3c,5,Gene
+1185,xlg3,5,Gene
+1186,swr1,5,Gene
+1187,anx1,5,Gene
+1188,rol1-2,5,Gene
+1189,glk1,5,Gene
+1190,pdr2,5,Gene
+1191,arp2,5,Gene
+1192,ddb2,5,Gene
+1193,flg22-induced receptor-like kinase 1,5,Gene
+1194,elip2,5,Gene
+1195,proteolysis6,5,Gene
+1196,pp2a,5,Gene
+1197,pdat,5,Gene
+1198,csd1,5,Gene
+1199,spa4,5,Gene
+1200,varicose,5,Gene
+1201,myb65,5,Gene
+1202,det3,5,Gene
+1203,uaf1,5,Gene
+1204,mar1,5,Gene
+1205,gnti,5,Gene
+1206,nac2,5,Gene
+1207,casein kinase ii,5,Gene
+1208,cpk6,5,Gene
+1209,sta1,5,Gene
+1210,aterf4,5,Gene
+1211,nuclear factor y,5,Gene
+1212,hawaiian skirt,5,Gene
+1213,arc11,5,Gene
+1214,spa2,5,Gene
+1215,pex12,5,Gene
+1216,gbf1,5,Gene
+1217,acbp1,5,Gene
+1218,xxt1,5,Gene
+1219,nbs1,5,Gene
+1220,vip1,5,Gene
+1221,pcna,5,Gene
+1222,sgr2,5,Gene
+1223,paf1,5,Gene
+1224,spr2,5,Gene
+1225,atgstf2,5,Gene
+1226,sus1,5,Gene
+1227,tempranillo 1,5,Gene
+1228,phospholipase c,5,Gene
+1229,hsfa1e,5,Gene
+1230,atpcs2,5,Gene
+1231,ahp1,5,Gene
+1232,pks5,5,Gene
+1233,smc5/6,5,Gene
+1234,acc oxidase,5,Gene
+1235,nad1,5,Gene
+1236,smt1,5,Gene
+1237,hsfa1d,5,Gene
+1238,atham2,4,Gene
+1239,cbr1,4,Gene
+1240,csn5b,4,Gene
+1241,slmlo1,4,Gene
+1242,lip5,4,Gene
+1243,atb2,4,Gene
+1244,cry2,4,Gene
+1245,atmrp5,4,Gene
+1246,kt2,4,Gene
+1247,atipk2beta,4,Gene
+1248,cep1,4,Gene
+1249,3-ketoacyl-coa thiolase,4,Gene
+1250,vip2,4,Gene
+1251,e1alpha,4,Gene
+1252,tim17,4,Gene
+1253,smt3,4,Gene
+1254,edf1/2/3/4:gus,4,Gene
+1255,chib,4,Gene
+1256,prx34,4,Gene
+1257,ku70,4,Gene
+1258,atm3,4,Gene
+1259,glucosinolate transporters1 and 2,4,Gene
+1260,glycerol-3-phosphate acyltransferase 6,4,Gene
+1261,jaz7,4,Gene
+1262,myosin xik,4,Gene
+1263,gcn2,4,Gene
+1264,cyp79f1,4,Gene
+1265,scar1,4,Gene
+1266,ape2,4,Gene
+1267,y2b,4,Gene
+1268,tas3,4,Gene
+1269,bhlh136/banquo1,4,Gene
+1270,myo-inositol 1 phosphate synthase,4,Gene
+1271,atss3,4,Gene
+1272,bhlh39,4,Gene
+1273,attoc90,4,Gene
+1274,gork,4,Gene
+1275,glu1,4,Gene
+1276,msi4,4,Gene
+1277,xlg1,4,Gene
+1278,aterf8,4,Gene
+1279,myb29,4,Gene
+1280,alt2,4,Gene
+1281,udp-glucose: glycoprotein glucosyltransferase,4,Gene
+1282,zinc finger protein5,4,Gene
+1283,syp122,4,Gene
+1284,trb3,4,Gene
+1285,uvi4,4,Gene
+1286,sep4,4,Gene
+1287,adr1,4,Gene
+1288,exo70b1,4,Gene
+1289,sepallata1,4,Gene
+1290,ftsh4,4,Gene
+1291,atswi3b,4,Gene
+1292,like auxin resistant1-3,4,Gene
+1293,act8,4,Gene
+1294,deg2,4,Gene
+1295,dynamin-related protein1a,4,Gene
+1296,acs1,4,Gene
+1297,ht1,4,Gene
+1298,lysine histidine transporter 1,4,Gene
+1299,gnl1,4,Gene
+1300,cam2,4,Gene
+1301,psr1,4,Gene
+1302,cytochrome c,4,Gene
+1303,systemic acquired resistance deficient1,4,Gene
+1304,dyt1,4,Gene
+1305,als1,4,Gene
+1306,mybl2,4,Gene
+1307,bpg2,4,Gene
+1308,xrn2,4,Gene
+1309,xap5 circadian timekeeper,4,Gene
+1310,nla,4,Gene
+1311,vire2,4,Gene
+1312,dov1,4,Gene
+1313,del1,4,Gene
+1314,flaky pollen1-1,4,Gene
+1315,frigida-essential 1,4,Gene
+1316,pepr2,4,Gene
+1317,cpsf,4,Gene
+1318,arabidopsis phosphotransfer protein6,4,Gene
+1319,sr30,4,Gene
+1320,fei1,4,Gene
+1321,spds3,4,Gene
+1322,pd1,4,Gene
+1323,apl3,4,Gene
+1324,acx1acx2,4,Gene
+1325,pal2,4,Gene
+1326,atg6,4,Gene
+1327,hua1,4,Gene
+1328,sultr1;1,4,Gene
+1329,rpl23aa,4,Gene
+1330,cer4,4,Gene
+1331,cue1,4,Gene
+1332,agamous-like15,4,Gene
+1333,rps6a,4,Gene
+1334,mekk2,4,Gene
+1335,electron transfer flavoprotein/ubiquinone oxidoreductase,4,Gene
+1336,oxidoreductase,4,Gene
+1337,histone h2a.z,4,Gene
+1338,centroradialis,4,Gene
+1339,xrcc3,4,Gene
+1340,arr15,4,Gene
+1341,rns2,4,Gene
+1342,xi-1,4,Gene
+1343,early bolting in short days,4,Gene
+1344,spch,4,Gene
+1345,ubc13,4,Gene
+1346,pmp3,4,Gene
+1347,endo1,4,Gene
+1348,atbbx21,4,Gene
+1349,pseudo-response regulator 7,4,Gene
+1350,peroxisomal nad+ transporter,4,Gene
+1351,muts homolog1,4,Gene
+1352,tga2/3/5/6,4,Gene
+1353,arabidopsis thaliana ring zinc finger 1,4,Gene
+1354,cyp83a1,4,Gene
+1355,vha-a1,4,Gene
+1356,tip,4,Gene
+1357,atg9,4,Gene
+1358,copper modified resistance1,4,Gene
+1359,abc1,4,Gene
+1360,vernalization1,4,Gene
+1361,hog1,4,Gene
+1362,inducible1,4,Gene
+1363,wrky46,4,Gene
+1364,ups1,4,Gene
+1365,angustifolia,4,Gene
+1366,pcna2,4,Gene
+1367,tir,4,Gene
+1368,bag6,4,Gene
+1369,"tpk1, 2, 3",4,Gene
+1370,cdks,4,Gene
+1371,prx33,4,Gene
+1372,cpk5,4,Gene
+1373,lsh1,4,Gene
+1374,atps1,4,Gene
+1375,paused,4,Gene
+1376,atp5cdh,4,Gene
+1377,hos9,4,Gene
+1378,sig2,4,Gene
+1379,cdf1,4,Gene
+1380,dornroschen-like,4,Gene
+1381,atpip1;4,4,Gene
+1382,wrky60,4,Gene
+1383,tt7,4,Gene
+1384,rps6,4,Gene
+1385,mot1,4,Gene
+1386,fln1,4,Gene
+1387,rcar3,4,Gene
+1388,atr2,4,Gene
+1389,rad51b,4,Gene
+1390,tom1,4,Gene
+1391,atftsh1,4,Gene
+1392,esd4,4,Gene
+1393,anac055,4,Gene
+1394,grx5,4,Gene
+1395,ppi1 and 2,4,Gene
+1396,wox1,4,Gene
+1397,ire,4,Gene
+1398,o-acetylserine(thiol)lyase,4,Gene
+1399,adenylate kinase,4,Gene
+1400,octopus,4,Gene
+1401,met18,4,Gene
+1402,eif4e,4,Gene
+1403,atgp3,4,Gene
+1404,hapless13,4,Gene
+1405,scar2,4,Gene
+1406,tspo,4,Gene
+1407,fpgs1,4,Gene
+1408,com1,4,Gene
+1409,dicer,4,Gene
+1410,transferase,4,Gene
+1411,xrn1,4,Gene
+1412,tex1,4,Gene
+1413,hsf4,4,Gene
+1414,kea2,4,Gene
+1415,idn2,4,Gene
+1416,arabidopsis thaliana cell-wall invertase 1,4,Gene
+1417,rd20,4,Gene
+1418,atire1-2,4,Gene
+1419,acx2/3,4,Gene
+1420,acc2,4,Gene
+1421,cyp51a2,4,Gene
+1422,atrsl4,4,Gene
+1423,atecb2,4,Gene
+1424,mediator subunit 18,4,Gene
+1425,clpr1-4,4,Gene
+1426,chs1,4,Gene
+1427,wrky75,4,Gene
+1428,catalase3,4,Gene
+1429,swinger,4,Gene
+1430,cyp707a1,4,Gene
+1431,bcl-2,4,Gene
+1432,cyp703a2,4,Gene
+1433,cax1cax3,4,Gene
+1434,dornroschen,4,Gene
+1435,rfc3,4,Gene
+1436,tga4,4,Gene
+1437,f3h,4,Gene
+1438,nst2,4,Gene
+1439,polib,4,Gene
+1440,rdm4,4,Gene
+1441,alb4,4,Gene
+1442,glucosinolate transporters1 and 2,4,Gene
+1443,agamous-like 42,4,Gene
+1444,sgs1,4,Gene
+1445,trb1,4,Gene
+1446,cryptochrome 1,4,Gene
+1447,etr1,4,Gene
+1448,nuclease,4,Gene
+1449,alpha-l-iduronidase,4,Gene
+1450,annexin2,4,Gene
+1451,aldehyde dehydrogenase 3h1,4,Gene
+1452,fe superoxide dismutase1,4,Gene
+1453,aterf2,4,Gene
+1454,atparn,4,Gene
+1455,map65-1 and map65-2,4,Gene
+1456,bhlh101,4,Gene
+1457,chy1,4,Gene
+1458,loh2,4,Gene
+1459,nucleolin,4,Gene
+1460,too many mouths,4,Gene
+1461,cat2 axr1,4,Gene
+1462,atgsnor1,4,Gene
+1463,protein kinase,4,Gene
+1464,pen3,4,Gene
+1465,sumo2,4,Gene
+1466,hat2,4,Gene
+1467,cbf4,4,Gene
+1468,gtl1,4,Gene
+1469,aco1,4,Gene
+1470,cesa5,4,Gene
+1471,uge4,4,Gene
+1472,nit1,4,Gene
+1473,usp,4,Gene
+1474,gly1,4,Gene
+1475,psp1,4,Gene
+1476,smo1-1,4,Gene
+1477,ask1-1,4,Gene
+1478,nrp1,4,Gene
+1479,galpha,4,Gene
+1480,edm2,4,Gene
+1481,powdery mildew-resistant5,4,Gene
+1482,ropgef1,4,Gene
+1483,zfp8,4,Gene
+1484,deg5/deg8,4,Gene
+1485,wrky22,4,Gene
+1486,tt12,4,Gene
+1487,tcp14,4,Gene
+1488,tgd2,4,Gene
+1489,iar4,4,Gene
+1490,tcp20,4,Gene
+1491,snc4,4,Gene
+1492,kinase2,4,Gene
+1493,din6,4,Gene
+1494,atlsm1-7,4,Gene
+1495,atfh1,4,Gene
+1496,ora59,4,Gene
+1497,atvsr1,4,Gene
+1498,exordium,4,Gene
+1499,vamp721,4,Gene
+1500,grxs17,4,Gene
+1501,lazy1,4,Gene
+1502,myb96,4,Gene
+1503,tgd4,4,Gene
+1504,ise2,4,Gene
+1505,p5cs2,4,Gene
+1506,pab2,4,Gene
+1507,bell1,4,Gene
+1508,mdn1,4,Gene
+1509,ail5,4,Gene
+1510,phavoluta,4,Gene
+1511,par1,4,Gene
+1512,cad1-6,4,Gene
+1513,sty2,4,Gene
+1514,csn4,4,Gene
+1515,cipk6,4,Gene
+1516,atsnak2,4,Gene
+1517,lacs9,4,Gene
+1518,nced9,4,Gene
+1519,ugt84a2,4,Gene
+1520,rglg1,4,Gene
+1521,dicer-like1,4,Gene
+1522,ftsh8,4,Gene
+1523,hsp21,4,Gene
+1524,attrb2,4,Gene
+1525,enhancer1 of da1,4,Gene
+1526,kinesin 1 and 2,4,Gene
+1527,cngc10,4,Gene
+1528,four lips,4,Gene
+1529,peroxin2,4,Gene
+1530,amt1;1,4,Gene
+1531,atmyb61,4,Gene
+1532,anx1 anx2,4,Gene
+1533,crk,4,Gene
+1534,eif4a-1,4,Gene
+1535,ick1,4,Gene
+1536,gbf3,4,Gene
+1537,abi-2,4,Gene
+1538,atucp1,4,Gene
+1539,beta-ketoacyl-[acyl carrier protein] synthase i,4,Gene
+1540,aca10,4,Gene
+1541,hst-1,4,Gene
+1542,rglg2,4,Gene
+1543,hdt2/hd2b,4,Gene
+1544,roc1,4,Gene
+1545,fancd2,4,Gene
+1546,chli 2,4,Gene
+1547,fhl,4,Gene
+1548,acr2,4,Gene
+1549,aintegumenta-like6,4,Gene
+1550,rwa1/2/3,4,Gene
+1551,mcm2-7,4,Gene
+1552,hemoglobin,4,Gene
+1553,tt16,4,Gene
+1554,ggt2,4,Gene
+1555,ssu,4,Gene
+1556,attpr,4,Gene
+1557,gig1,4,Gene
+1558,"trk1,2",4,Gene
+1559,arg1,4,Gene
+1560,threonine synthase,4,Gene
+1561,atcngc11,4,Gene
+1562,glk2,4,Gene
+1563,grf1/2/3,4,Gene
+1564,acd6,4,Gene
+1565,smc2,4,Gene
+1566,fsd3,4,Gene
+1567,gad1/2,4,Gene
+1568,threonine dehydratase/deaminase,4,Gene
+1569,atcipk14,4,Gene
+1570,myb111,4,Gene
+1571,midget,4,Gene
+1572,rfc1,4,Gene
+1573,ost1-2,4,Gene
+1574,pcna1,4,Gene
+1575,mir,4,Gene
+1576,lysophospholipase 2,4,Gene
+1577,pabp,4,Gene
+1578,atl31,4,Gene
+1579,lox3,4,Gene
+1580,rpt2b,4,Gene
+1581,cp29,4,Gene
+1582,ahl29,4,Gene
+1583,splayed,4,Gene
+1584,pectinmethylesterase inhibitor6,4,Gene
+1585,jaz9,4,Gene
+1586,parc6,4,Gene
+1587,irx9-l,4,Gene
+1588,gsl11,4,Gene
+1589,nad7,4,Gene
+1590,gis2,4,Gene
+1591,ecr1-1,4,Gene
+1592,atnrt2.2,4,Gene
+1593,executer1,4,Gene
+1594,sinapoylglucose accumulator 2,4,Gene
+1595,abi5-8,4,Gene
+1596,acx4,4,Gene
+1597,afb3,4,Gene
+1598,su (var)3-9,4,Gene
+1599,virf,4,Gene
+1600,hip 1.3,4,Gene
+1601,atrac10,4,Gene
+1602,crk5,4,Gene
+1603,atnrt3.1,4,Gene
+1604,athk1,4,Gene
+1605,pai2,4,Gene
+1606,ate1 and 2,4,Gene
+1607,wrky29,4,Gene
+1608,ammonium transporter1;2,4,Gene
+1609,vipp1,4,Gene
+1610,importin alpha,4,Gene
+1611,phosphate starvation response1,4,Gene
+1612,hemoglobin 1,4,Gene
+1613,ahl27,4,Gene
+1614,ara6,4,Gene
+1615,carotenoid cleavage dioxygenase4,4,Gene
+1616,fei2,4,Gene
+1617,adf1,4,Gene
+1618,psb27,4,Gene
+1619,suf4,4,Gene
+1620,agd1,4,Gene
+1621,myb,4,Gene
+1622,osu1,4,Gene
+1623,sad2,4,Gene
+1624,cpsrp54,4,Gene
+1625,dyad,4,Gene
+1626,hai-1,4,Gene
+1627,mekk3,4,Gene
+1628,xth22,4,Gene
+1629,oleosin1,4,Gene
+1630,van3,4,Gene
+1631,phf1,4,Gene
+1632,ftsh,4,Gene
+1633,pex5-10,4,Gene
+1634,cvp1-3,4,Gene
+1635,bob1,4,Gene
+1636,tornado2,4,Gene
+1637,pah1,4,Gene
+1638,sec24a,4,Gene
+1639,xipotl1,4,Gene
+1640,ms2,4,Gene
+1641,hsp90,4,Gene
+1642,hsp90-1,4,Gene
+1643,cpsrp43,4,Gene
+1644,sro1,4,Gene
+1645,atmlh3,4,Gene
+1646,ch1-1,4,Gene
+1647,atpip2;2,4,Gene
+1648,tcp3,3,Gene
+1649,atelp1,3,Gene
+1650,oxa1,3,Gene
+1651,acyl-coa-binding protein 3,3,Gene
+1652,fama,3,Gene
+1653,cer7,3,Gene
+1654,atlyk4,3,Gene
+1655,mcm2-7,3,Gene
+1656,atmyb103,3,Gene
+1657,nthk1,3,Gene
+1658,ipt5,3,Gene
+1659,cpl4,3,Gene
+1660,lcbk1,3,Gene
+1661,rhd4,3,Gene
+1662,coproporphyrinogen iii oxidase,3,Gene
+1663,binding protein,3,Gene
+1664,ubp12,3,Gene
+1665,spl8,3,Gene
+1666,ho2,3,Gene
+1667,hsr8,3,Gene
+1668,myb5,3,Gene
+1669,fmo1,3,Gene
+1670,ubp14,3,Gene
+1671,sfr3,3,Gene
+1672,lhca5,3,Gene
+1673,nsh1,3,Gene
+1674,copt1-5,3,Gene
+1675,nip6;1,3,Gene
+1676,nadh-gogat,3,Gene
+1677,serine/threonine kinase12,3,Gene
+1678,wag2,3,Gene
+1679,wag1,3,Gene
+1680,bhlh038,3,Gene
+1681,srd2,3,Gene
+1682,ribonuclease,3,Gene
+1683,spsa1,3,Gene
+1684,atftsz1-1,3,Gene
+1685,pdk1,3,Gene
+1686,atysl2,3,Gene
+1687,atedt1,3,Gene
+1688,lhcb1/2,3,Gene
+1689,erg11,3,Gene
+1690,taalmt1,3,Gene
+1691,proliferating cell nuclear antigen,3,Gene
+1692,atgalt2,3,Gene
+1693,reil2,3,Gene
+1694,abc1k1,3,Gene
+1695,mannanase7,3,Gene
+1696,hb17,3,Gene
+1697,myb51,3,Gene
+1698,loh1,3,Gene
+1699,rup2,3,Gene
+1700,nip1;1,3,Gene
+1701,ise1,3,Gene
+1702,stip-like2,3,Gene
+1703,athd2c,3,Gene
+1704,mtn2,3,Gene
+1705,gsl1,3,Gene
+1706,atpap10,3,Gene
+1707,hab2,3,Gene
+1708,eif2alpha,3,Gene
+1709,oe23,3,Gene
+1710,rps10,3,Gene
+1711,ntm1-like8,3,Gene
+1712,pi-4kbeta1,3,Gene
+1713,cpl2,3,Gene
+1714,nitric oxide synthase,3,Gene
+1715,ipp1,3,Gene
+1716,keule,3,Gene
+1717,lecrk-i.9,3,Gene
+1718,erf5,3,Gene
+1719,atapy2,3,Gene
+1720,kea3,3,Gene
+1721,rns1,3,Gene
+1722,cyclic nucleotide-gated ion channel 6,3,Gene
+1723,pab5,3,Gene
+1724,atmc1,3,Gene
+1725,vps9,3,Gene
+1726,sfr2,3,Gene
+1727,bccp2,3,Gene
+1728,asil1,3,Gene
+1729,slk2,3,Gene
+1730,enolase,3,Gene
+1731,fumarylacetoacetate hydrolase,3,Gene
+1732,apt1-3,3,Gene
+1733,sus3,3,Gene
+1734,psi2,3,Gene
+1735,gs1,3,Gene
+1736,rps4,3,Gene
+1737,pcap1,3,Gene
+1738,glutathione-s-transferase,3,Gene
+1739,attlp3,3,Gene
+1740,zip3,3,Gene
+1741,bin2,3,Gene
+1742,jagged,3,Gene
+1743,cyp71a12,3,Gene
+1744,sdr1,3,Gene
+1745,atchr12,3,Gene
+1746,chromatin-remodeling factor,3,Gene
+1747,vtc5,3,Gene
+1748,lec1,3,Gene
+1749,rad54,3,Gene
+1750,amt1;2,3,Gene
+1751,cyp78a9,3,Gene
+1752,"barely any meristem 1, 2 and 3",3,Gene
+1753,arl1,3,Gene
+1754,tip1,3,Gene
+1755,atnudx6,3,Gene
+1756,nedd8,3,Gene
+1757,agamous-like16,3,Gene
+1758,relative of early flowering 6,3,Gene
+1759,kns2,3,Gene
+1760,har1,3,Gene
+1761,fab1b,3,Gene
+1762,acbp4,3,Gene
+1763,ice1,3,Gene
+1764,cer9,3,Gene
+1765,myb34,3,Gene
+1766,hopg1,3,Gene
+1767,kaktus,3,Gene
+1768,di19,3,Gene
+1769,patatin-like protein 2,3,Gene
+1770,mpk12,3,Gene
+1771,perianthia,3,Gene
+1772,nhl10,3,Gene
+1773,mother-of-ft-and-tfl1,3,Gene
+1774,attrs120,3,Gene
+1775,drm1 drm2,3,Gene
+1776,lacs1 lacs2,3,Gene
+1777,tubulin alpha-6,3,Gene
+1778,apc4,3,Gene
+1779,bhlh105,3,Gene
+1780,ss1,3,Gene
+1781,atatm2,3,Gene
+1782,glutathione-s-transferase,3,Gene
+1783,atcrr1,3,Gene
+1784,brca2a,3,Gene
+1785,sex4,3,Gene
+1786,urate oxidase,3,Gene
+1787,abcg14,3,Gene
+1788,afb1-3,3,Gene
+1789,aps2,3,Gene
+1790,wrky8,3,Gene
+1791,atpc1,3,Gene
+1792,ispd,3,Gene
+1793,inp1,3,Gene
+1794,hit1-1,3,Gene
+1795,spo11-1-3,3,Gene
+1796,atprd1,3,Gene
+1797,hap5,3,Gene
+1798,suc5,3,Gene
+1799,pir121/sra-1,3,Gene
+1800,bos1,3,Gene
+1801,lls1,3,Gene
+1802,agl18,3,Gene
+1803,uge1,3,Gene
+1804,ssadh,3,Gene
+1805,atnuc-l1,3,Gene
+1806,oberon1,3,Gene
+1807,dna polymerase lambda,3,Gene
+1808,cle40,3,Gene
+1809,apc11,3,Gene
+1810,fdh,3,Gene
+1811,lob,3,Gene
+1812,atg8,3,Gene
+1813,shh1,3,Gene
+1814,stromal ascorbate peroxidase,3,Gene
+1815,med14,3,Gene
+1816,xbat32,3,Gene
+1817,ss2,3,Gene
+1818,delta9-desaturase,3,Gene
+1819,atrdh2,3,Gene
+1820,clb19,3,Gene
+1821,atthic,3,Gene
+1822,della-gaf1,3,Gene
+1823,rug3,3,Gene
+1824,phytoene desaturase 3,3,Gene
+1825,sig1-6,3,Gene
+1826,hyd2,3,Gene
+1827,uv-damaged dna binding protein 1,3,Gene
+1828,cbf2,3,Gene
+1829,atl2,3,Gene
+1830,msh3,3,Gene
+1831,tic62,3,Gene
+1832,tt1,3,Gene
+1833,psba,3,Gene
+1834,ydk1,3,Gene
+1835,alcatraz,3,Gene
+1836,cul3b,3,Gene
+1837,pht1;9,3,Gene
+1838,nha1p,3,Gene
+1839,cnx2,3,Gene
+1840,dnmt1,3,Gene
+1841,cyp704b1,3,Gene
+1842,ppt1,3,Gene
+1843,ran1,3,Gene
+1844,ugt74f1,3,Gene
+1845,jmj15,3,Gene
+1846,ren1,3,Gene
+1847,rve4,3,Gene
+1848,deg5/deg8,3,Gene
+1849,cpn20,3,Gene
+1850,pectin methylesterase 3,3,Gene
+1851,siamese,3,Gene
+1852,"atnudt1, -2, -4, -5, -6, -7, -9, -10, and -11",3,Gene
+1853,slim1,3,Gene
+1854,gip1,3,Gene
+1855,txr1-1,3,Gene
+1856,atcdc5,3,Gene
+1857,lqy1,3,Gene
+1858,atmyb117,3,Gene
+1859,atnip7;1,3,Gene
+1860,arpc4,3,Gene
+1861,atxdh1,3,Gene
+1862,attk1b,3,Gene
+1863,cinnamate 4-hydroxylase,3,Gene
+1864,cor15b,3,Gene
+1865,ubp13,3,Gene
+1866,sdir1,3,Gene
+1867,atstar1,3,Gene
+1868,hdt1,3,Gene
+1869,arp,3,Gene
+1870,spl4,3,Gene
+1871,fae1,3,Gene
+1872,rax1-3,3,Gene
+1873,protein phosphatase 1,3,Gene
+1874,morf1,3,Gene
+1875,kinase-associated protein phosphatase,3,Gene
+1876,serat2.1,3,Gene
+1877,site-1 protease,3,Gene
+1878,att1,3,Gene
+1879,atclcc,3,Gene
+1880,cpk28,3,Gene
+1881,cas,3,Gene
+1882,cp12,3,Gene
+1883,cyclophilin 40,3,Gene
+1884,mmd1,3,Gene
+1885,xth9,3,Gene
+1886,tom3,3,Gene
+1887,som,3,Gene
+1888,lhca3,3,Gene
+1889,pht1;5,3,Gene
+1890,cax4,3,Gene
+1891,atx2,3,Gene
+1892,pbs3,3,Gene
+1893,tua4,3,Gene
+1894,atutr1,3,Gene
+1895,atgpt1,3,Gene
+1896,cytokinin-independent1,3,Gene
+1897,athac1,3,Gene
+1898,epf2,3,Gene
+1899,parg1,3,Gene
+1900,meristem disorganization1,3,Gene
+1901,ribosomal protein s5 a,3,Gene
+1902,roc1,3,Gene
+1903,gammacal2,3,Gene
+1904,rce1,3,Gene
+1905,bri1,3,Gene
+1906,gpx1,3,Gene
+1907,attlp1-11,3,Gene
+1908,beta-xylosidase1,3,Gene
+1909,atsac3b,3,Gene
+1910,oberon2,3,Gene
+1911,gpdhc1,3,Gene
+1912,mcm2-7,3,Gene
+1913,sgt1a,3,Gene
+1914,anac017,3,Gene
+1915,mir173,3,Gene
+1916,1-deoxy-d-xylulose 5-phosphate reductoisomerase,3,Gene
+1917,spds2,3,Gene
+1918,tcl1,3,Gene
+1919,csn3,3,Gene
+1920,hsl1,3,Gene
+1921,lacs1 lacs2,3,Gene
+1922,flp1,3,Gene
+1923,lwd1,3,Gene
+1924,arr22,3,Gene
+1925,myb3r1,3,Gene
+1926,rad51d,3,Gene
+1927,nata1,3,Gene
+1928,cesa10,3,Gene
+1929,14-3-3omega,3,Gene
+1930,atnrt2.5,3,Gene
+1931,at4,3,Gene
+1932,prps17,3,Gene
+1933,rpl16,3,Gene
+1934,banyuls,3,Gene
+1935,med8,3,Gene
+1936,tumor prone5,3,Gene
+1937,atbzip11,3,Gene
+1938,ferrochelatase 1,3,Gene
+1939,chaperonin 60-alpha and 60-beta,3,Gene
+1940,myb11,3,Gene
+1941,gif2,3,Gene
+1942,ap1,3,Gene
+1943,pabp8,3,Gene
+1944,cyclin-d1;1,3,Gene
+1945,serpin,3,Gene
+1946,atg5,3,Gene
+1947,atnup62,3,Gene
+1948,brc2,3,Gene
+1949,psae2,3,Gene
+1950,nrp2,3,Gene
+1951,agl19,3,Gene
+1952,cytc-2,3,Gene
+1953,ref4,3,Gene
+1954,biotin carboxyl-carrier protein,3,Gene
+1955,elo1,3,Gene
+1956,ribosomal protein l10,3,Gene
+1957,vnd6,3,Gene
+1958,dmr6,3,Gene
+1959,smxl6,3,Gene
+1960,mir408,3,Gene
+1961,attk1a,3,Gene
+1962,pad4,3,Gene
+1963,rack1b,3,Gene
+1964,pbs2,3,Gene
+1965,azi1,3,Gene
+1966,apm1,3,Gene
+1967,zhoupi,3,Gene
+1968,cap1,3,Gene
+1969,gh3.5,3,Gene
+1970,upf1,3,Gene
+1971,ubiquitin-specific protease26,3,Gene
+1972,hda5/14/15/18,3,Gene
+1973,pakrp1,3,Gene
+1974,dar-4,3,Gene
+1975,"eukaryotic translation initiation factor 3, subunit f",3,Gene
+1976,prt1,3,Gene
+1977,sae2,3,Gene
+1978,man1,3,Gene
+1979,atfh,3,Gene
+1980,myb,3,Gene
+1981,psi-h,3,Gene
+1982,sphk1,3,Gene
+1983,fzl,3,Gene
+1984,shn1,3,Gene
+1985,araf1,3,Gene
+1986,cd95,3,Gene
+1987,exo70f1,3,Gene
+1988,dsptp1,3,Gene
+1989,cam4,3,Gene
+1990,gst6,3,Gene
+1991,scd1,3,Gene
+1992,pp7,3,Gene
+1993,puchi,3,Gene
+1994,bfn1,3,Gene
+1995,ipk2,3,Gene
+1996,ems-mutagenized bri1 suppressor 5,3,Gene
+1997,anl2,3,Gene
+1998,vveds1,3,Gene
+1999,ase1,3,Gene
+2000,linc1,3,Gene
+2001,apl1,3,Gene
+2002,hisn1a,3,Gene
+2003,ult2,3,Gene
+2004,nek5,3,Gene
+2005,rip,3,Gene
+2006,tgd3,3,Gene
+2007,dpe1,3,Gene
+2008,aoc3,3,Gene
+2009,armadillo-repeat kinesin 1,3,Gene
+2010,cox2,3,Gene
+2011,epf1,3,Gene
+2012,atprd2,3,Gene
+2013,sus4,3,Gene
+2014,spx1,3,Gene
+2015,exo70h4,3,Gene
+2016,lon1,3,Gene
+2017,p53,3,Gene
+2018,atipt3,3,Gene
+2019,vire3,3,Gene
+2020,yuc2yuc6,3,Gene
+2021,phb3,3,Gene
+2022,pck1,3,Gene
+2023,argonaute 9,3,Gene
+2024,bglu18,3,Gene
+2025,polyamine oxidase 5,3,Gene
+2026,nitrite reductase,3,Gene
+2027,atcap-c,3,Gene
+2028,gli1,3,Gene
+2029,clathrin heavy chain2,3,Gene
+2030,hda5/14/15/18,3,Gene
+2031,fsd2,3,Gene
+2032,lox4,3,Gene
+2033,rlk,3,Gene
+2034,dgs1,3,Gene
+2035,annexin4,3,Gene
+2036,ino80,3,Gene
+2037,atercc1,3,Gene
+2038,axr4,3,Gene
+2039,lap5,3,Gene
+2040,pnsb3,3,Gene
+2041,aborted microspores,3,Gene
+2042,nadp-me1-4,3,Gene
+2043,atdre2,3,Gene
+2044,atmrs2-11,3,Gene
+2045,cellulose synthase9,3,Gene
+2046,gln1; 1,3,Gene
+2047,pip5k3,3,Gene
+2048,fip1,3,Gene
+2049,rci2a,3,Gene
+2050,rad5a,3,Gene
+2051,sneezy,3,Gene
+2052,bglu21,3,Gene
+2053,cipk9,3,Gene
+2054,atstp1,3,Gene
+2055,pla-igamma1,3,Gene
+2056,bg1,3,Gene
+2057,atisa1,3,Gene
+2058,tps1,3,Gene
+2059,atmnd1,3,Gene
+2060,lsd1-like1,3,Gene
+2061,suvh2,3,Gene
+2062,arr11,3,Gene
+2063,myb,3,Gene
+2064,hcc1,3,Gene
+2065,tdf1,3,Gene
+2066,psaa,3,Gene
+2067,kip related protein (krp) 4,3,Gene
+2068,ga3ox1 and ga3ox3,3,Gene
+2069,bt2,3,Gene
+2070,bzip1,3,Gene
+2071,los4,3,Gene
+2072,cys-c1,3,Gene
+2073,por,3,Gene
+2074,pad1,3,Gene
+2075,ben1,3,Gene
+2076,sugar-dependent1,3,Gene
+2077,cam1,3,Gene
+2078,blap75,3,Gene
+2079,cytc-1,3,Gene
+2080,atbor4,3,Gene
+2081,azf1,3,Gene
+2082,uvh6,3,Gene
+2083,atpip1;4,3,Gene
+2084,"l-galactono-1,4-lactone dehydrogenase",3,Gene
+2085,fatb,3,Gene
+2086,gbeta,3,Gene
+2087,miro2,3,Gene
+2088,atserpin1,3,Gene
+2089,tip1;1,3,Gene
+2090,ick4,3,Gene
+2091,atp7b,3,Gene
+2092,exo84b,3,Gene
+2093,ems-mutagenized bri1 suppressor 3,3,Gene
+2094,cdkf;1,3,Gene
+2095,pex1,3,Gene
+2096,lpat1,3,Gene
+2097,hos15,3,Gene
+2098,callose synthase,3,Gene
+2099,por,3,Gene
+2100,histone h2a-1,3,Gene
+2101,atkinesin-13a,3,Gene
+2102,mir156a,3,Gene
+2103,srk2c,3,Gene
+2104,gassho2,3,Gene
+2105,rad1,3,Gene
+2106,glutamine dumper1,3,Gene
+2107,hma2,3,Gene
+2108,atdjb1,3,Gene
+2109,chromatin remodeling11,3,Gene
+2110,lkp2,3,Gene
+2111,htd1,3,Gene
+2112,profilins,3,Gene
+2113,myb106,3,Gene
+2114,prr7prr9,3,Gene
+2115,mer3,3,Gene
+2116,cbl1 cbl9,3,Gene
+2117,abnormal leaf shape1 (ale1,3,Gene
+2118,irt1-2,3,Gene
+2119,mucilage modified 4,3,Gene
+2120,rangap2,3,Gene
+2121,abc1k3,3,Gene
+2122,yoda,3,Gene
+2123,iaa6,3,Gene
+2124,pakrp1l,3,Gene
+2125,zar1,3,Gene
+2126,cytochrome b(6),3,Gene
+2127,atccd1,3,Gene
+2128,repressor of uv-b photomorphogenesis 1,3,Gene
+2129,gcr1-5,3,Gene
+2130,sar1,3,Gene
+2131,sig1-6,3,Gene
+2132,suppressor of variegation 3-9,3,Gene
+2133,udp-flavonoid-3'-glucosyl-transferase,3,Gene
+2134,alg3,3,Gene
+2135,toe1,3,Gene
+2136,atzed1,3,Gene
+2137,zip4,3,Gene
+2138,comt,3,Gene
+2139,atg10,3,Gene
+2140,arabidopsis dehiscence zone polygalacturonase1,3,Gene
+2141,gpa1,3,Gene
+2142,linc2,3,Gene
+2143,morc6,3,Gene
+2144,atl6,3,Gene
+2145,rer2,3,Gene
+2146,atalmt12,3,Gene
+2147,hsfb2a,3,Gene
+2148,non-specific phospholipase c5,3,Gene
+2149,myb76,3,Gene
+2150,atmsh5,3,Gene
+2151,why3,3,Gene
+2152,agl6,3,Gene
+2153,clasp,3,Gene
+2154,bzip53,3,Gene
+2155,stichel,3,Gene
+2156,sgr5,3,Gene
+2157,bhlh100,3,Gene
+2158,sep2,3,Gene
+2159,pyl4,3,Gene
+2160,aha1-11,3,Gene
+2161,cyp707a3,3,Gene
+2162,srfr1,3,Gene
+2163,cpk10,3,Gene
+2164,pex5,3,Gene
+2165,atsnap33,3,Gene
+2166,eer5,3,Gene
+2167,aop3,3,Gene
+2168,sos,3,Gene
+2169,pub4,3,Gene
+2170,wak1,3,Gene
+2171,vin3-like 1/vernalization 5,3,Gene
+2172,hsp70,3,Gene
+2173,acbp5,3,Gene
+2174,nac1,3,Gene
+2175,vp1,3,Gene
+2176,eca1,3,Gene
+2177,atchx17,3,Gene
+2178,sgt1,3,Gene
+2179,smc1,3,Gene
+2180,ask1,3,Gene
+2181,ptac12,3,Gene
+2182,los1,3,Gene
+2183,rpt5b,3,Gene
+2184,sxd1,3,Gene
+2185,tumor necrosis factor-alpha,3,Gene
+2186,mtn1,3,Gene
+2187,pyrabactin resistance-like1,3,Gene
+2188,chup1,3,Gene
+2189,vps35a,3,Gene
+2190,fbl17,3,Gene
+2191,copt1-5,3,Gene
+2192,supercentipede1,3,Gene
+2193,pip5k1,3,Gene
+2194,ae7,3,Gene
+2195,sweet11,3,Gene
+2196,ovate family protein1,3,Gene
+2197,vti12,3,Gene
+2198,aldh3,3,Gene
+2199,dna polymerase lambda,3,Gene
+2200,gpat8,3,Gene
+2201,atga2ox7,3,Gene
+2202,atfer4,3,Gene
+2203,pds1,3,Gene
+2204,atcstf64,3,Gene
+2205,mfp2,3,Gene
+2206,aha7,3,Gene
+2207,ispf,3,Gene
+2208,atm1,3,Gene
+2209,rtl1,3,Gene
+2210,mus81,3,Gene
+2211,grf1/2/3,3,Gene
+2212,syp41,3,Gene
+2213,swc6,3,Gene
+2214,choline transporter-like1,3,Gene
+2215,hen1 suppressor1-2,3,Gene
+2216,wrky54,3,Gene
+2217,skp1,3,Gene
+2218,rap2.2,3,Gene
+2219,mbd7,3,Gene
+2220,atxth17,3,Gene
+2221,siamese-related1,3,Gene
+2222,egy1,3,Gene
+2223,top6b,3,Gene
+2224,lon2,3,Gene
+2225,atcsp2,3,Gene
+2226,gsl7,3,Gene
+2227,methionine gamma-lyase,3,Gene
+2228,aoc2,3,Gene
+2229,bt1,3,Gene
+2230,suppressor of variegation1,3,Gene
+2231,cori3,3,Gene
+2232,dwf7,3,Gene
+2233,atclh2,3,Gene
+2234,akin11,3,Gene
+2235,atpolh,3,Gene
+2236,atcstf77,3,Gene
+2237,plc2,3,Gene
+2238,pah1,3,Gene
+2239,thi1,3,Gene
+2240,aberrant peroxisome morphology9,3,Gene
+2241,rack1c,3,Gene
+2242,sqd1,3,Gene
+2243,atmkk9,3,Gene
+2244,rha2b,3,Gene
+2245,rpl23,3,Gene
+2246,atm/rad3-related,3,Gene
+2247,atcpsf160,3,Gene
+2248,pep12/syp21,3,Gene
+2249,aox1d,3,Gene
+2250,tornado1,3,Gene
+2251,snowy cotyledon 1,3,Gene
+2252,mos2,3,Gene
+2253,vte4,3,Gene
+2254,pete2,3,Gene
+2255,dcp1,3,Gene
+2256,ataxia-telangiectasia mutated,3,Gene
+2257,smax1,3,Gene
+2258,flk,3,Gene
+2259,rce1,3,Gene
+2260,prps1,3,Gene
+2261,ethe1,3,Gene
+2262,receptor-like protein kinase,3,Gene
+2263,ste24,3,Gene
+2264,hcf107,3,Gene
+2265,ankyrin,3,Gene
+2266,atglr1,3,Gene
+2267,dawdle,3,Gene
+2268,histone acetyltransferase,3,Gene
+2269,lpr2,3,Gene
+2270,orf,3,Gene
+2271,mir168,3,Gene
+2272,classy1,3,Gene
+2273,cul1,3,Gene
+2274,bip1,3,Gene
+2275,vtc4,3,Gene
+2276,athp1-3,3,Gene
+2277,arr18,3,Gene
+2278,atapy1,3,Gene
+2279,eifiso4g1,3,Gene
+2280,lpcat2,3,Gene
+2281,mos7,3,Gene
+2282,atnf-yb3,3,Gene
+2283,adf4,3,Gene
+2284,snc2,3,Gene
+2285,hcf164,3,Gene
+2286,atdbp1,3,Gene
+2287,s6k1,3,Gene
+2288,attip2;1,3,Gene
+2289,pup1,3,Gene
+2290,ppr,3,Gene
+2291,suspensor,3,Gene
+2292,suppressor of variegation8,3,Gene
+2293,far5,3,Gene
+2294,mcm2-7,3,Gene
+2295,atpao1-5,3,Gene
+2296,pil2,3,Gene
+2297,vps23p,3,Gene
+2298,trp1,3,Gene
+2299,rsh,3,Gene
+2300,spds1,3,Gene
+2301,sabre,3,Gene
+2302,"modifier of snc1, 1",3,Gene
+2303,atcrk1,3,Gene
+2304,exo70e2,3,Gene
+2305,sag29,3,Gene
+2306,lox6,3,Gene
+2307,bax,3,Gene
+2308,exp7,3,Gene
+2309,psbh,3,Gene
+2310,shs1/hws-1,3,Gene
+2311,lhca2,3,Gene
+2312,cow1,3,Gene
+2313,mef11,3,Gene
+2314,ptb1,3,Gene
+2315,pmr6,3,Gene
+2316,sqd2,3,Gene
+2317,atcngc12,3,Gene
+2318,rpt2a-3,3,Gene
+2319,ant1,3,Gene
+2320,kip-related protein2,3,Gene
+2321,upf3,3,Gene
+2322,nit2,3,Gene
+2323,parvus,3,Gene
+2324,bcat3,3,Gene
+2325,asp2,3,Gene
+2326,nitrate transporter1.8,3,Gene
+2327,serk5,3,Gene
+2328,gnl,3,Gene
+2329,gsl1-12,3,Gene
+2330,hen1,3,Gene
+2331,mrit,3,Gene
+2332,thi 2.1,3,Gene
+2333,elp6,3,Gene
+2334,zat6,3,Gene
+2335,cyp85a2,3,Gene
+2336,slp,3,Gene
+2337,atatm1,3,Gene
+2338,sumo5,3,Gene
+2339,myb26,3,Gene
+2340,erd2,3,Gene
+2341,abo1,3,Gene
+2342,gassho1,3,Gene
+2343,pat10,3,Gene
+2344,rpl2,3,Gene
+2345,apc10,3,Gene
+2346,drl1,3,Gene
+2347,cdr1,3,Gene
+2348,vps35b,3,Gene
+2349,polaris,3,Gene
+2350,polynucleotide phosphorylase,3,Gene
+2351,rhl1,3,Gene
+2352,wave-dampened2-like5,3,Gene
+2353,rad50,3,Gene
+2354,ap1-20,3,Gene
+2355,miro1,3,Gene
+2356,spike1,3,Gene
+2357,myb88,3,Gene
+2358,frigida-like 1,3,Gene
+2359,no catalase activity1-3,3,Gene
+2360,ptac14,3,Gene
+2361,arr3,3,Gene
+2362,organic cation transporter 1,3,Gene
+2363,spx3,3,Gene
+2364,agd2,3,Gene
+2365,nhx2,3,Gene
+2366,homoserine kinase,3,Gene
+2367,npc4,3,Gene
+2368,knl2,3,Gene
+2369,gh3.6,3,Gene
+2370,aln,3,Gene
+2371,anp2,3,Gene
+2372,tubby-like protein 2,3,Gene
+2373,toc1-2,3,Gene
+2374,vps2.1,3,Gene
+2375,tasir-arf,3,Gene
+2376,b55,3,Gene
+2377,vdac1,3,Gene
+2378,nucleostemin-like 1,3,Gene
+2379,mitogen-activated protein kinase kinase kinase 5,3,Gene
+2380,ugt80b1,3,Gene
+2381,scl3,3,Gene
+2382,isocitrate lyase,3,Gene
+2383,villin2,3,Gene
+2384,altered phloem development,3,Gene
+2385,cas1p,3,Gene
+2386,rpa2,3,Gene
+2387,ttl,3,Gene
+2388,ptac10,3,Gene
+2389,akt1,3,Gene
+2390,atccx5,3,Gene
+2391,cys2,3,Gene
+2392,mpk11,3,Gene
+2393,atring1a,3,Gene
+2394,glutaredoxin,3,Gene
+2395,copt1,3,Gene
+2396,prp1p,2,Gene
+2397,hop1,2,Gene
+2398,sec22p,2,Gene
+2399,nrt1,2,Gene
+2400,csld2,2,Gene
+2401,phyb1,2,Gene
+2402,atnf-yc3,2,Gene
+2403,atrsh3,2,Gene
+2404,tdp1,2,Gene
+2405,fkbp12,2,Gene
+2406,beta-catenin,2,Gene
+2407,at4cl2,2,Gene
+2408,phr1-like1,2,Gene
+2409,aca8,2,Gene
+2410,tso1,2,Gene
+2411,sey1p,2,Gene
+2412,iaa16,2,Gene
+2413,alg3,2,Gene
+2414,prp6p,2,Gene
+2415,slshine3,2,Gene
+2416,ef-tu,2,Gene
+2417,miox4,2,Gene
+2418,sqe1-5,2,Gene
+2419,rack1,2,Gene
+2420,tcp2,2,Gene
+2421,sqe1-5,2,Gene
+2422,atftsh11,2,Gene
+2423,csdp1,2,Gene
+2424,b''alpha,2,Gene
+2425,tpc1,2,Gene
+2426,fc1,2,Gene
+2427,wrky28,2,Gene
+2428,midasin homologue 1,2,Gene
+2429,nack2,2,Gene
+2430,fps2,2,Gene
+2431,bhlh34,2,Gene
+2432,mpk17,2,Gene
+2433,dpa4,2,Gene
+2434,pmd1,2,Gene
+2435,pin6,2,Gene
+2436,bam5,2,Gene
+2437,atabcg22,2,Gene
+2438,cellulase5,2,Gene
+2439,pux1,2,Gene
+2440,atps1,2,Gene
+2441,ptac2,2,Gene
+2442,sac9,2,Gene
+2443,vps41,2,Gene
+2444,late meristem identity 1,2,Gene
+2445,ent1,2,Gene
+2446,atnf-yc4,2,Gene
+2447,tcp24,2,Gene
+2448,ppr2,2,Gene
+2449,bri1-9,2,Gene
+2450,engrailed,2,Gene
+2451,irx15,2,Gene
+2452,overly tolerant to salt1 and -2,2,Gene
+2453,ringlet1,2,Gene
+2454,hop1,2,Gene
+2455,agp11,2,Gene
+2456,gln1;4,2,Gene
+2457,plastid movement impaired 2,2,Gene
+2458,pgn,2,Gene
+2459,attdx,2,Gene
+2460,nac,2,Gene
+2461,ubp4,2,Gene
+2462,atpdx1.2,2,Gene
+2463,ehb1,2,Gene
+2464,ipms1,2,Gene
+2465,rpl4,2,Gene
+2466,aha4,2,Gene
+2467,suppressor of variegation 3-9,2,Gene
+2468,triose phosphate isomerase,2,Gene
+2469,rcf3,2,Gene
+2470,bap1,2,Gene
+2471,peup2,2,Gene
+2472,xanthine dehydrogenase,2,Gene
+2473,atgalt31a,2,Gene
+2474,atcpsf73-ii,2,Gene
+2475,azf2,2,Gene
+2476,cid1,2,Gene
+2477,attlp1-11,2,Gene
+2478,sos2,2,Gene
+2479,atring1,2,Gene
+2480,acr11,2,Gene
+2481,pgl2,2,Gene
+2482,ercc1,2,Gene
+2483,bri1-like1,2,Gene
+2484,hmg2,2,Gene
+2485,eif2alpha,2,Gene
+2486,bzo1,2,Gene
+2487,crr22,2,Gene
+2488,rab-d2a,2,Gene
+2489,atrz-1b,2,Gene
+2490,atcdpk16,2,Gene
+2491,aly,2,Gene
+2492,bax inhibitor-1,2,Gene
+2493,be1,2,Gene
+2494,beta-galactosidase,2,Gene
+2495,atprp3,2,Gene
+2496,gcn4,2,Gene
+2497,ala1,2,Gene
+2498,cnga3,2,Gene
+2499,vacuolar protein sorting (vps) 38p,2,Gene
+2500,main-like1,2,Gene
+2501,htr11,2,Gene
+2502,prp4,2,Gene
+2503,stp13,2,Gene
+2504,log1,2,Gene
+2505,abi3-like,2,Gene
+2506,yak1,2,Gene
+2507,aha3,2,Gene
+2508,anac072,2,Gene
+2509,taf15b,2,Gene
+2510,lox5,2,Gene
+2511,tic55,2,Gene
+2512,abr1,2,Gene
+2513,arl2,2,Gene
+2514,pirin,2,Gene
+2515,cam5,2,Gene
+2516,hydroxypyruvate reductase,2,Gene
+2517,atsot12,2,Gene
+2518,rab,2,Gene
+2519,gr2,2,Gene
+2520,crtiso,2,Gene
+2521,prk,2,Gene
+2522,ns1,2,Gene
+2523,phs2,2,Gene
+2524,os9,2,Gene
+2525,histone h2b,2,Gene
+2526,phospholipase d,2,Gene
+2527,fps1,2,Gene
+2528,atnpf3.1,2,Gene
+2529,c-myc,2,Gene
+2530,dyw1,2,Gene
+2531,"curt1a, b, c, and d",2,Gene
+2532,rev7,2,Gene
+2533,be3,2,Gene
+2534,mir159,2,Gene
+2535,paps1,2,Gene
+2536,gonst1,2,Gene
+2537,atrsh1,2,Gene
+2538,adpg2,2,Gene
+2539,rbcs-3b,2,Gene
+2540,factor of dna methylation 1,2,Gene
+2541,ldl2,2,Gene
+2542,atvps45,2,Gene
+2543,allantoate amidohydrolase,2,Gene
+2544,siz1,2,Gene
+2545,myb15,2,Gene
+2546,exo70c1,2,Gene
+2547,mgt3,2,Gene
+2548,swr1,2,Gene
+2549,ura3,2,Gene
+2550,atx5,2,Gene
+2551,mre11,2,Gene
+2552,gif3,2,Gene
+2553,ethylene-response-factor1,2,Gene
+2554,pmi2,2,Gene
+2555,radialis-like sant/myb 1-4,2,Gene
+2556,pap3,2,Gene
+2557,atrr1-4,2,Gene
+2558,isph,2,Gene
+2559,arp4,2,Gene
+2560,obp4,2,Gene
+2561,short life,2,Gene
+2562,hua enhancer2,2,Gene
+2563,pai3,2,Gene
+2564,abdominal-a,2,Gene
+2565,cop1,2,Gene
+2566,gh3,2,Gene
+2567,fypp3,2,Gene
+2568,cbsx1,2,Gene
+2569,dj-1,2,Gene
+2570,atga2ox2,2,Gene
+2571,swi3,2,Gene
+2572,bbx32,2,Gene
+2573,shp1,2,Gene
+2574,hopao1,2,Gene
+2575,rad3,2,Gene
+2576,mef8,2,Gene
+2577,psb33,2,Gene
+2578,td1,2,Gene
+2579,ahg1-1,2,Gene
+2580,vep1,2,Gene
+2581,tcp8,2,Gene
+2582,axy8,2,Gene
+2583,atftsh10,2,Gene
+2584,mterf4,2,Gene
+2585,sulfiredoxin,2,Gene
+2586,hy1,2,Gene
+2587,ca(2+)-atpase,2,Gene
+2588,lof2,2,Gene
+2589,saur-ac1,2,Gene
+2590,ank6,2,Gene
+2591,afp2,2,Gene
+2592,xrcc2,2,Gene
+2593,cct1,2,Gene
+2594,vdac3,2,Gene
+2595,kup7,2,Gene
+2596,atszf2,2,Gene
+2597,rme-8,2,Gene
+2598,hap5,2,Gene
+2599,wrky42,2,Gene
+2600,hrs1,2,Gene
+2601,icp55,2,Gene
+2602,suppressor of abi3-5,2,Gene
+2603,pdv2,2,Gene
+2604,tbl33,2,Gene
+2605,acyl-activating enzyme3,2,Gene
+2606,blister,2,Gene
+2607,ftsz2-2,2,Gene
+2608,hsp17,2,Gene
+2609,auxilin,2,Gene
+2610,lorelei-like-gpi-anchored protein 1,2,Gene
+2611,kat1,2,Gene
+2612,phytoene synthase,2,Gene
+2613,hic,2,Gene
+2614,wxr1,2,Gene
+2615,sucrose synthase,2,Gene
+2616,apc13,2,Gene
+2617,g1/s and g2,2,Gene
+2618,atnf-yb2,2,Gene
+2619,hmgb1,2,Gene
+2620,atubc13b,2,Gene
+2621,gsk3beta,2,Gene
+2622,atdbr1,2,Gene
+2623,vps15p,2,Gene
+2624,wox5 and 7,2,Gene
+2625,"tpk1, 2, 3",2,Gene
+2626,cytochrome p450,2,Gene
+2627,ilr1,2,Gene
+2628,paip2,2,Gene
+2629,spl15,2,Gene
+2630,cka2,2,Gene
+2631,atrecq2,2,Gene
+2632,cob,2,Gene
+2633,gapc1,2,Gene
+2634,nfs1,2,Gene
+2635,mnd1,2,Gene
+2636,shikimate kinase-like 1 (skl1) and -2,2,Gene
+2637,eifiso4g2,2,Gene
+2638,atl9,2,Gene
+2639,shv3,2,Gene
+2640,aao4,2,Gene
+2641,cml9,2,Gene
+2642,tga1,2,Gene
+2643,pdr9,2,Gene
+2644,iaa9,2,Gene
+2645,bard1,2,Gene
+2646,atcmpg1,2,Gene
+2647,tso2,2,Gene
+2648,u1 snrnp,2,Gene
+2649,mar binding filament-like protein1,2,Gene
+2650,sdh1-1,2,Gene
+2651,separase,2,Gene
+2652,maa3,2,Gene
+2653,adf5,2,Gene
+2654,rps2,2,Gene
+2655,ahp5,2,Gene
+2656,tapetum1,2,Gene
+2657,atprx2,2,Gene
+2658,tfl1,2,Gene
+2659,protoporphyrinogen oxidase,2,Gene
+2660,lto1,2,Gene
+2661,kat2,2,Gene
+2662,accumulation of photosystem one1,2,Gene
+2663,atmago,2,Gene
+2664,gaut1,2,Gene
+2665,upf2,2,Gene
+2666,multiprotein bridging factor 1c,2,Gene
+2667,asn2,2,Gene
+2668,spik,2,Gene
+2669,etr1,2,Gene
+2670,tamsh7,2,Gene
+2671,proteinase inhibitor ii,2,Gene
+2672,taf4,2,Gene
+2673,wrky51,2,Gene
+2674,mhf1,2,Gene
+2675,atcsn2,2,Gene
+2676,sel1l,2,Gene
+2677,athb4,2,Gene
+2678,leucine-rich repeat-receptor-like protein kinase,2,Gene
+2679,uro,2,Gene
+2680,akt1,2,Gene
+2681,hira,2,Gene
+2682,atsnak1,2,Gene
+2683,suv2,2,Gene
+2684,lbl1,2,Gene
+2685,bon3,2,Gene
+2686,alg3,2,Gene
+2687,der1,2,Gene
+2688,homeodomain glabrous2,2,Gene
+2689,otp82,2,Gene
+2690,maf2,2,Gene
+2691,kinesin-4,2,Gene
+2692,trna,2,Gene
+2693,fln2,2,Gene
+2694,pmi1,2,Gene
+2695,gsl1-12,2,Gene
+2696,atmkk7,2,Gene
+2697,sec22,2,Gene
+2698,soyap1,2,Gene
+2699,atfer1-2,2,Gene
+2700,yab3,2,Gene
+2701,atgldp1,2,Gene
+2702,ech,2,Gene
+2703,uv radiation resistance-associated gene,2,Gene
+2704,ntan2,2,Gene
+2705,atmes17,2,Gene
+2706,myb72,2,Gene
+2707,nes1,2,Gene
+2708,tpp,2,Gene
+2709,ppr5,2,Gene
+2710,uvr1,2,Gene
+2711,"pplaiiis (alpha, beta, gamma, delta), only pplaiiidelta",2,Gene
+2712,tic100,2,Gene
+2713,vird5,2,Gene
+2714,nop2,2,Gene
+2715,myb118,2,Gene
+2716,sec3a,2,Gene
+2717,vni2,2,Gene
+2718,jaz5,2,Gene
+2719,ttn1,2,Gene
+2720,get1,2,Gene
+2721,dongle,2,Gene
+2722,fancm,2,Gene
+2723,gsl12,2,Gene
+2724,gpat4,2,Gene
+2725,hecate3,2,Gene
+2726,pai1,2,Gene
+2727,synaptotagmin1,2,Gene
+2728,taasy1,2,Gene
+2729,lpcat1,2,Gene
+2730,atfah2,2,Gene
+2731,adi3,2,Gene
+2732,saur19,2,Gene
+2733,lhca1/4,2,Gene
+2734,myb52,2,Gene
+2735,sco3,2,Gene
+2736,phosphatidylinositol-4-monophosphate 5-kinase 4,2,Gene
+2737,aberrant testa shape,2,Gene
+2738,ath1,2,Gene
+2739,expansin17,2,Gene
+2740,f8h,2,Gene
+2741,copper chaperone,2,Gene
+2742,atcipk1,2,Gene
+2743,spl5,2,Gene
+2744,maturase,2,Gene
+2745,jmj30,2,Gene
+2746,fet3fet4,2,Gene
+2747,rpl23ab,2,Gene
+2748,cka4,2,Gene
+2749,acd2,2,Gene
+2750,aca4,2,Gene
+2751,vtc1,2,Gene
+2752,vps53p,2,Gene
+2753,odb1,2,Gene
+2754,runkel,2,Gene
+2755,grip,2,Gene
+2756,cycd2;1,2,Gene
+2757,sps1,2,Gene
+2758,rab11,2,Gene
+2759,aur1,2,Gene
+2760,nar1,2,Gene
+2761,mop1,2,Gene
+2762,aterf53,2,Gene
+2763,bki1,2,Gene
+2764,ty1,2,Gene
+2765,atwnk2,2,Gene
+2766,arf1,2,Gene
+2767,atsk21,2,Gene
+2768,tpr1,2,Gene
+2769,cle44,2,Gene
+2770,stt3,2,Gene
+2771,atbrxl1,2,Gene
+2772,attlp1-11,2,Gene
+2773,gsk3,2,Gene
+2774,aur2,2,Gene
+2775,fah12,2,Gene
+2776,dur3p,2,Gene
+2777,mvp1,2,Gene
+2778,gammavpe,2,Gene
+2779,telomerase activator1,2,Gene
+2780,homeodomain-leucine zipper protein 1,2,Gene
+2781,rve8,2,Gene
+2782,theseus1,2,Gene
+2783,ubiquitin-specific protease 12 and 13,2,Gene
+2784,tangled1,2,Gene
+2785,osh1-1,2,Gene
+2786,atairp1,2,Gene
+2787,eif3e,2,Gene
+2788,ccx1ccx4,2,Gene
+2789,crr28,2,Gene
+2790,rpa,2,Gene
+2791,pin8,2,Gene
+2792,caspase-1,2,Gene
+2793,ugt74b1,2,Gene
+2794,drd,2,Gene
+2795,pectin methylesterase31,2,Gene
+2796,erf110,2,Gene
+2797,tlr4,2,Gene
+2798,pip5k2,2,Gene
+2799,attic20-ii and attic20-v,2,Gene
+2800,elm2,2,Gene
+2801,eta2,2,Gene
+2802,ateca4,2,Gene
+2803,rnase e,2,Gene
+2804,raba4d,2,Gene
+2805,atwox14,2,Gene
+2806,snf2,2,Gene
+2807,taf1,2,Gene
+2808,atnap57,2,Gene
+2809,hsfa5,2,Gene
+2810,myb transcription factor,2,Gene
+2811,pre2pre5,2,Gene
+2812,hsfa9,2,Gene
+2813,atglcat14a,2,Gene
+2814,apx1-4,2,Gene
+2815,irx15-l,2,Gene
+2816,verdandi,2,Gene
+2817,vip4,2,Gene
+2818,hopa1,2,Gene
+2819,tbl32,2,Gene
+2820,bcat4,2,Gene
+2821,rs41,2,Gene
+2822,atnap1;1,2,Gene
+2823,chr23,2,Gene
+2824,lateral suppressor,2,Gene
+2825,zyp1,2,Gene
+2826,sde5,2,Gene
+2827,arf3,2,Gene
+2828,tpk4,2,Gene
+2829,iaa carboxyl methyltransferase1,2,Gene
+2830,rd21,2,Gene
+2831,stromal processing peptidase,2,Gene
+2832,apx1-4,2,Gene
+2833,gdh1-2,2,Gene
+2834,villin3,2,Gene
+2835,anac013,2,Gene
+2836,atubc13a,2,Gene
+2837,mdh,2,Gene
+2838,cdc48,2,Gene
+2839,chl,2,Gene
+2840,pentatricopeptide repeat 10,2,Gene
+2841,ateca2,2,Gene
+2842,ala3,2,Gene
+2843,erg7,2,Gene
+2844,brl3,2,Gene
+2845,sec14,2,Gene
+2846,rar1,2,Gene
+2847,cle41-cle44,2,Gene
+2848,scabra3,2,Gene
+2849,fes1a,2,Gene
+2850,xpd,2,Gene
+2851,tmo5,2,Gene
+2852,grf1/2/3,2,Gene
+2853,scl14,2,Gene
+2854,msl2,2,Gene
+2855,srt2,2,Gene
+2856,zip4,2,Gene
+2857,ibr1,2,Gene
+2858,cbp60a,2,Gene
+2859,ogg1,2,Gene
+2860,nrb4,2,Gene
+2861,atpub19,2,Gene
+2862,mir168b,2,Gene
+2863,xrcc3,2,Gene
+2864,hot1,2,Gene
+2865,ric1,2,Gene
+2866,dir1,2,Gene
+2867,calreticulin1a,2,Gene
+2868,msh6,2,Gene
+2869,xxt5,2,Gene
+2870,oli2,2,Gene
+2871,beta-amylase8,2,Gene
+2872,gdh1-2,2,Gene
+2873,iaa5,2,Gene
+2874,lpp1,2,Gene
+2875,grv2,2,Gene
+2876,mute,2,Gene
+2877,nf-yb,2,Gene
+2878,indeterminate domain1,2,Gene
+2879,spp-2,2,Gene
+2880,tmt2,2,Gene
+2881,ibh1,2,Gene
+2882,gal1,2,Gene
+2883,atfruct4,2,Gene
+2884,rs40,2,Gene
+2885,ga2-oxidase8,2,Gene
+2886,hda5/14/15/18,2,Gene
+2887,"atnudt1, -2, -4, -5, -6, -7, -9, -10, and -11",2,Gene
+2888,hydroxynitrile lyase,2,Gene
+2889,irx12,2,Gene
+2890,hal3,2,Gene
+2891,chromosome transmission fidelity7,2,Gene
+2892,geranylgeranyl diphosphate synthase 1,2,Gene
+2893,deg1,2,Gene
+2894,glycolipid transfer protein,2,Gene
+2895,opr1,2,Gene
+2896,rtel1,2,Gene
+2897,abcg16,2,Gene
+2898,daxx,2,Gene
+2899,phosphoglycerate kinase,2,Gene
+2900,beta 3a,2,Gene
+2901,clathrin heavy chain,2,Gene
+2902,dur3,2,Gene
+2903,npq7,2,Gene
+2904,ovate,2,Gene
+2905,wrky2,2,Gene
+2906,"jagger, arabinogalactan protein 4",2,Gene
+2907,ugt80a2,2,Gene
+2908,bhlh92,2,Gene
+2909,tlk1,2,Gene
+2910,mir164b,2,Gene
+2911,attlp1-11,2,Gene
+2912,aspartate aminotransferase,2,Gene
+2913,beta-galactosidase,2,Gene
+2914,ggt1,2,Gene
+2915,chromomethylase2,2,Gene
+2916,histone deacetylase,2,Gene
+2917,htert,2,Gene
+2918,general transcription factor group e6,2,Gene
+2919,rpb1,2,Gene
+2920,pmh1,2,Gene
+2921,zcn8,2,Gene
+2922,sub-1,2,Gene
+2923,adt2,2,Gene
+2924,sinapoyl-glc accumulator1,2,Gene
+2925,atuvr3,2,Gene
+2926,atparg2,2,Gene
+2927,msl10,2,Gene
+2928,opcl1,2,Gene
+2929,syp23,2,Gene
+2930,attrx2,2,Gene
+2931,e2fc,2,Gene
+2932,iaa20,2,Gene
+2933,dpd1,2,Gene
+2934,gux1/2/3,2,Gene
+2935,transferrin,2,Gene
+2936,iaa3,2,Gene
+2937,topp4,2,Gene
+2938,bglu21-1 leb-1,2,Gene
+2939,viviparous8,2,Gene
+2940,mips2,2,Gene
+2941,ppmure,2,Gene
+2942,fypp1,2,Gene
+2943,cdkb1;1,2,Gene
+2944,ndhh,2,Gene
+2945,rab,2,Gene
+2946,attlp1-11,2,Gene
+2947,zinc finger protein 6,2,Gene
+2948,"tpk1, 2, 3",2,Gene
+2949,kco1,2,Gene
+2950,cbl6,2,Gene
+2951,aao2,2,Gene
+2952,pll1,2,Gene
+2953,pot1,2,Gene
+2954,sco1p,2,Gene
+2955,titan5,2,Gene
+2956,crf2,2,Gene
+2957,rpl24b,2,Gene
+2958,fro1,2,Gene
+2959,atriba1,2,Gene
+2960,betaine aldehyde dehydrogenase,2,Gene
+2961,trithorax,2,Gene
+2962,atrh36,2,Gene
+2963,tonneau2,2,Gene
+2964,gaa,2,Gene
+2965,ak-1,2,Gene
+2966,cct2,2,Gene
+2967,rab18,2,Gene
+2968,atbzip34,2,Gene
+2969,rap2.12,2,Gene
+2970,psbr,2,Gene
+2971,arf1,2,Gene
+2972,ntt1-2,2,Gene
+2973,sos1,2,Gene
+2974,clpp6,2,Gene
+2975,ddf2,2,Gene
+2976,f2kp,2,Gene
+2977,vsr2,2,Gene
+2978,erf105,2,Gene
+2979,ap2c1,2,Gene
+2980,sec6,2,Gene
+2981,fft,2,Gene
+2982,diap1,2,Gene
+2983,pfs2p,2,Gene
+2984,ubp15,2,Gene
+2985,hsp90,2,Gene
+2986,bri1-9,2,Gene
+2987,vp14,2,Gene
+2988,anac102,2,Gene
+2989,ccs52a1,2,Gene
+2990,smg7,2,Gene
+2991,sco4,2,Gene
+2992,sen1,2,Gene
+2993,gpx7,2,Gene
+2994,atlsm1-7,2,Gene
+2995,adenine phosphoribosyltransferase,2,Gene
+2996,thioredoxin,2,Gene
+2997,ntmkp1,2,Gene
+2998,tonoplast monosaccharide transporter1,2,Gene
+2999,apc1,2,Gene
+3000,nit4,2,Gene
+3001,cib1,2,Gene
+3002,atpc2,2,Gene
+3003,chl27,2,Gene
+3004,hcc2,2,Gene
+3005,tic20-iv,2,Gene
+3006,get3,2,Gene
+3007,myb99,2,Gene
+3008,pbp1,2,Gene
+3009,atfro7,2,Gene
+3010,executer (ex) 1 and 2,2,Gene
+3011,rep,2,Gene
+3012,shikimate kinase-like 1 (skl1) and -2,2,Gene
+3013,vam3,2,Gene
+3014,c-repeat binding factors 1-3,2,Gene
+3015,redox-responsive transcription factor 1,2,Gene
+3016,mlh1,2,Gene
+3017,hpr1,2,Gene
+3018,sf1,2,Gene
+3019,cphsc70-1,2,Gene
+3020,clpp,2,Gene
+3021,hpr1,2,Gene
+3022,lsf2,2,Gene
+3023,vps52p,2,Gene
+3024,iaa4,2,Gene
+3025,brl2,2,Gene
+3026,ae3,2,Gene
+3027,fission1b,2,Gene
+3028,atcngc20,2,Gene
+3029,wrky17,2,Gene
+3030,lng1,2,Gene
+3031,myb3r4,2,Gene
+3032,atfh5,2,Gene
+3033,atcngc16,2,Gene
+3034,cpk9,2,Gene
+3035,sam2,2,Gene
+3036,atexpa5,2,Gene
+3037,svl1,2,Gene
+3038,cle17,2,Gene
+3039,sqe1-5,2,Gene
+3040,icdh,2,Gene
+3041,crk4,2,Gene
+3042,hisn1b,2,Gene
+3043,snare,2,Gene
+3044,ccc2,2,Gene
+3045,lif2,2,Gene
+3046,atftsh3,2,Gene
+3047,rha1,2,Gene
+3048,morc2,2,Gene
+3049,protoporphyrinogen ix oxidase1,2,Gene
+3050,glucocorticoid receptor,2,Gene
+3051,nqk1,2,Gene
+3052,athb13,2,Gene
+3053,hopo1-1,2,Gene
+3054,ubc32,2,Gene
+3055,alf4,2,Gene
+3056,pol,2,Gene
+3057,vnd1,2,Gene
+3058,atwnk9,2,Gene
+3059,mdr1,2,Gene
+3060,vim1 vim2,2,Gene
+3061,hog1,2,Gene
+3062,rad51c,2,Gene
+3063,sde3,2,Gene
+3064,rcc1,2,Gene
+3065,ppd2,2,Gene
+3066,slo2,2,Gene
+3067,hsp90.2,2,Gene
+3068,methionine adenosyltransferase3,2,Gene
+3069,eol1,2,Gene
+3070,crr4,2,Gene
+3071,myb122,2,Gene
+3072,sth,2,Gene
+3073,rsl2,2,Gene
+3074,cds2,2,Gene
+3075,suppressor of variegation 3-9,2,Gene
+3076,shn3,2,Gene
+3077,atmbd9,2,Gene
+3078,atsweet16,2,Gene
+3079,sdg26,2,Gene
+3080,pcfs4,2,Gene
+3081,aalp,2,Gene
+3082,frs1,2,Gene
+3083,yop1,2,Gene
+3084,myb97,2,Gene
+3085,ocl4,2,Gene
+3086,myb113,2,Gene
+3087,vps34p,2,Gene
+3088,atlhcb1-6,2,Gene
+3089,gt-2-like1,2,Gene
+3090,atehd2,2,Gene
+3091,snf4,2,Gene
+3092,hop2,2,Gene
+3093,resistance to fusarium oxysporum 1,2,Gene
+3094,challah,2,Gene
+3095,atfro8,2,Gene
+3096,rab7,2,Gene
+3097,atplc3,2,Gene
+3098,taf14,2,Gene
+3099,club,2,Gene
+3100,sir1,2,Gene
+3101,rpn10,2,Gene
+3102,pepck,2,Gene
+3103,pi-4kbeta1 and -4kbeta2,2,Gene
+3104,athb20,2,Gene
+3105,eve1,2,Gene
+3106,fadd,2,Gene
+3107,cpsf30,2,Gene
+3108,delta1-pyrroline-5-carboxylate dehydrogenase,2,Gene
+3109,gcp2,2,Gene
+3110,by-2,2,Gene
+3111,plastid redox insensitive 2,2,Gene
+3112,lew1,2,Gene
+3113,sr34,2,Gene
+3114,exordium-like1,2,Gene
+3115,tpx2,2,Gene
+3116,chl1,2,Gene
+3117,mir319c,2,Gene
+3118,propep2,2,Gene
+3119,ehd2,2,Gene
+3120,fission1a,2,Gene
+3121,csb3,2,Gene
+3122,atebp,2,Gene
+3123,zmpin1a,2,Gene
+3124,calmodulin-binding protein,2,Gene
+3125,calreticulin,2,Gene
+3126,tm6,2,Gene
+3127,mot1,2,Gene
+3128,xero2,2,Gene
+3129,ho3,2,Gene
+3130,brs1,2,Gene
+3131,lwd2,2,Gene
+3132,cyp90d1,2,Gene
+3133,attlp1-11,2,Gene
+3134,idm2,2,Gene
+3135,lpa2,2,Gene
+3136,gl1,2,Gene
+3137,gasa5,2,Gene
+3138,cngc3,2,Gene
+3139,cop9,2,Gene
+3140,ndhf,2,Gene
+3141,tno1,2,Gene
+3142,ahl22,2,Gene
+3143,atmhx,2,Gene
+3144,vps54p,2,Gene
+3145,upf3,2,Gene
+3146,rad5,2,Gene
+3147,atgstu19,2,Gene
+3148,afb5,2,Gene
+3149,pex10,2,Gene
+3150,bil1,2,Gene
+3151,early flowering 6,2,Gene
+3152,saul1,2,Gene
+3153,frataxin,2,Gene
+3154,isovaleryl-coa dehydrogenase,2,Gene
+3155,nga1,2,Gene
+3156,circadian1,2,Gene
+3157,myb,2,Gene
+3158,nbr1,2,Gene
+3159,aha10,2,Gene
+3160,roc4,2,Gene
+3161,argah2,2,Gene
+3162,abi five binding protein,2,Gene
+3163,nhx6,2,Gene
+3164,nac,2,Gene
+3165,nhx4,2,Gene
+3166,as1,2,Gene
+3167,aop1,2,Gene
+3168,atwnk8,2,Gene
+3169,yip4a,2,Gene
+3170,hpot1,2,Gene
+3171,atpms1,2,Gene
+3172,xrcc1,2,Gene
+3173,slbrc1a,2,Gene
+3174,los1p,2,Gene
+3175,fru,2,Gene
+3176,bsu1,2,Gene
+3177,wrky63,2,Gene
+3178,srk2i,2,Gene
+3179,ics2,2,Gene
+3180,xth30,2,Gene
+3181,basic amino acid carrier2,2,Gene
+3182,atlrgb,2,Gene
+3183,sar1p,2,Gene
+3184,"glb1, 2 and 3",2,Gene
+3185,atmgd3,2,Gene
+3186,arabidopsis thaliana glutathione peroxidase3,2,Gene
+3187,cat3,2,Gene
+3188,anac016,2,Gene
+3189,eid1,2,Gene
+3190,prpl11,2,Gene
+3191,pks2,2,Gene
+3192,uge3,2,Gene
+3193,mms2,2,Gene
+3194,cycb1;2,2,Gene
+3195,phye,2,Gene
+3196,trehalose phosphate synthase 5,2,Gene
+3197,atint4,2,Gene
+3198,ubc13,2,Gene
+3199,pete1,2,Gene
+3200,adf3,2,Gene
+3201,nyc1,2,Gene
+3202,iaa29,2,Gene
+3203,gammacal1,2,Gene
+3204,fab1d,2,Gene
+3205,cyp86b1,2,Gene
+3206,ipt7,2,Gene
+3207,short hypocotyl in white light1,2,Gene
+3208,ndh,2,Gene
+3209,vps23p,2,Gene
+3210,atfip37,2,Gene
+3211,lacs1 lacs9,2,Gene
+3212,rad51,2,Gene
+3213,aterv1,2,Gene
+3214,cruciferin a,2,Gene
+3215,sdg27,2,Gene
+3216,rof1,2,Gene
+3217,atasy3,2,Gene
+3218,min7,2,Gene
+3219,ubiquitin-10,2,Gene
+3220,argos-like,2,Gene
+3221,anac053,2,Gene
+3222,msh6,2,Gene
+3223,npq6,2,Gene
+3224,suvh9,2,Gene
+3225,rus1,2,Gene
+3226,interleukin-8,2,Gene
+3227,atring1b,2,Gene
+3228,met1 cmt3,2,Gene
+3229,atabcg25,2,Gene
+3230,atbzip10,2,Gene
+3231,srp2,2,Gene
+3232,vrn3,2,Gene
+3233,atrpa70a,2,Gene
+3234,suvh6,2,Gene
+3235,ho4,2,Gene
+3236,pex12,2,Gene
+3237,"barely any meristem 1, 2 and 3",2,Gene
+3238,far4,2,Gene
+3239,jmj18,2,Gene
+3240,srp3,2,Gene
+3241,dt1/dt1,2,Gene
+3242,glc6p/phosphate translocator,2,Gene
+3243,"beta1,2",2,Gene
+3244,atsr45a,2,Gene
+3245,ofp4,2,Gene
+3246,pex16,2,Gene
+3247,atgrf5,2,Gene
+3248,msly1,2,Gene
+3249,nek4,2,Gene
+3250,par2,2,Gene
+3251,atsuc9,2,Gene
+3252,ccr2,2,Gene
+3253,fet3fet4,2,Gene
+3254,ask14,2,Gene
+3255,arr16,2,Gene
+3256,bhlh104,2,Gene
+3257,arl2,2,Gene
+3258,afd1,2,Gene
+3259,tsa1,2,Gene
+3260,chr17,2,Gene
+3261,thioredoxin,2,Gene
+3262,e3 ubiquitin-ligase,2,Gene
+3263,cch1,2,Gene
+3264,atdtx50,2,Gene
+3265,pql2,2,Gene
+3266,amidase1,2,Gene
+3267,protein tyrosine phosphatase1,2,Gene
+3268,sterol c4-methyl oxidase1-1,2,Gene
+3269,hago2,2,Gene
+3270,smxl7,2,Gene
+3271,xth24,2,Gene
+3272,nadp-dependent malate dehydrogenase,2,Gene
+3273,vascular-associated death 1 (vad1,2,Gene
+3274,haiku1,2,Gene
+3275,atrad21.1,2,Gene
+3276,ptcd3,2,Gene
+3277,aim1,2,Gene
+3278,atnudx19,2,Gene
+3279,apum23,2,Gene
+3280,gfp-microtubule-associated protein 4,2,Gene
+3281,cdc25,2,Gene
+3282,mei1,2,Gene
+3283,geko1,2,Gene
+3284,sag13,2,Gene
+3285,"inositol 1,3,4,5,6-pentakisphosphate 2-kinase",2,Gene
+3286,msh2,2,Gene
+3287,bsk3,2,Gene
+3288,ispe,2,Gene
+3289,apum24,2,Gene
+3290,cenpc,2,Gene
+3291,nip1;1,2,Gene
+3292,"lut1, lut1-3",2,Gene
+3293,atfro6,2,Gene
+3294,dbb3,2,Gene
+3295,atugp2,2,Gene
+3296,atxth31,2,Gene
+3297,cbsx2,2,Gene
+3298,pect1,2,Gene
+3299,ltpg1,2,Gene
+3300,rax3,2,Gene
+3301,sam1,2,Gene
+3302,sieve-element-occlusion-related1,2,Gene
+3303,amt1;3,2,Gene
+3304,eca3,2,Gene
+3305,zinc finger homeodomain5,2,Gene
+3306,ptb2,2,Gene
+3307,ahg1-1,2,Gene
+3308,trail,2,Gene
+3309,zwi,2,Gene
+3310,rid3,2,Gene
+3311,cyp94b3,2,Gene
+3312,zip3,2,Gene
+3313,elf8,2,Gene
+3314,ago6,2,Gene
+3315,aop2,2,Gene
+3316,npsn11,2,Gene
+3317,ppd1,2,Gene
+3318,pre2pre6,2,Gene
+3319,granule-bound starch synthase 1,2,Gene
+3320,rab-e1(d),2,Gene
+3321,phs1,2,Gene
+3322,log4,2,Gene
+3323,th1,2,Gene
+3324,elo2,2,Gene
+3325,cryptochrome 1,2,Gene
+3326,rap2.1,2,Gene
+3327,hal3b,2,Gene
+3328,vps52,2,Gene
+3329,seven in absentia of arabidopsis thaliana 2,2,Gene
+3330,lep,2,Gene
+3331,lew3,2,Gene
+3332,tpst,2,Gene
+3333,sod,2,Gene
+3334,elg1,2,Gene
+3335,parps,2,Gene
+3336,nucleoside-diphosphate kinase,2,Gene
+3337,ntra,2,Gene
+3338,hsfa3,2,Gene
+3339,dpl1,2,Gene
+3340,lhca6,2,Gene
+3341,endo2,2,Gene
+3342,cpt,2,Gene
+3343,pht1;9,2,Gene
+3344,vps24,2,Gene
+3345,sgr9,2,Gene
+3346,hvbri1,2,Gene
+3347,ampk,2,Gene
+3348,vti1,2,Gene
+3349,agp6,2,Gene
+3350,atzn-mp,2,Gene
+3351,erf6,2,Gene
+3352,atcinv1,2,Gene
+3353,pgr3,2,Gene
+3354,ndf6,2,Gene
+3355,pyk10-binding protein 1,2,Gene
+3356,hopr1,2,Gene
+3357,rpl2,2,Gene
+3358,sft,2,Gene
+3359,atpk7,2,Gene
+3360,indeterminate1,2,Gene
+3361,fc2,2,Gene
+3362,dcr,2,Gene
+3363,dex1,2,Gene
+3364,adp1,2,Gene
+3365,sep1,2,Gene
+3366,cd95l,2,Gene
+3367,fu-gaeri1,2,Gene
+3368,nadk2,2,Gene
+3369,gapdh,2,Gene
+3370,mure,2,Gene
+3371,lhca1,2,Gene
+3372,lehy5,2,Gene
+3373,tga9,2,Gene
+3374,sweet12,2,Gene
+3375,resurrection1,2,Gene
+3376,irt1,2,Gene
+3377,atnfxl-2,2,Gene
+3378,cst,2,Gene
+3379,cyp79f2,2,Gene
+3380,rsw3,2,Gene
+3381,iaa8,2,Gene
+3382,phosphomannomutase,2,Gene
+3383,mef1,2,Gene
+3384,atrac7,2,Gene
+3385,sha,2,Gene
+3386,cyp735a2,2,Gene
+3387,eukaryotic release factor 1-2,2,Gene
+3388,rip2,2,Gene
+3389,els1,2,Gene
+3390,korrigan1-2,2,Gene
+3391,neural precursor cell expressed,2,Gene
+3392,prt1,2,Gene
+3393,male sterility2,2,Gene
+3394,esr,2,Gene
+3395,rkd2,2,Gene
+3396,fra1,2,Gene
+3397,arabidopsis histidine kinase 5,2,Gene
+3398,nhx5,2,Gene
+3399,saccharopine dehydrogenase,2,Gene
+3400,organelle rrm protein 1,2,Gene
+3401,agl67,2,Gene
+3402,ubp3,2,Gene
+3403,mtsf1,2,Gene
+3404,vire1,2,Gene
+3405,ebs4,2,Gene
+3406,atsun1,2,Gene
+3407,eukaryotic release factor 1,2,Gene
+3408,d6pk,2,Gene
+3409,mod1,2,Gene
+3410,plastidic type i signal peptidase 1,2,Gene
+3411,lin2,2,Gene
+3412,vird2,2,Gene
+3413,msh2,2,Gene
+3414,ogg1,2,Gene
+3415,al6,2,Gene
+3416,nramp2,2,Gene
+3417,propep3,2,Gene
+3418,atg5,2,Gene
+3419,erd10,2,Gene
+3420,yuc10,2,Gene
+3421,ntt,2,Gene
+3422,tic21,2,Gene
+3423,factor 1,2,Gene
+3424,mlo6,2,Gene
+3425,cellulase3/glycosylhydrolase9b3,2,Gene
+3426,wbp1,2,Gene
+3427,trf2,2,Gene
+3428,ash1-related3,2,Gene
+3429,actin-related protein6,2,Gene
+3430,rps6b,2,Gene
+3431,snx1,2,Gene
+3432,eif4aiii,2,Gene
+3433,defective kernel 1,2,Gene
+3434,glr3.4,2,Gene
+3435,jaz2,2,Gene
+3436,prl1,2,Gene
+3437,atcpk1,2,Gene
+3438,touch3,2,Gene
+3439,ost1,2,Gene
+3440,sco2p,2,Gene
+3441,carboxypeptidase y,2,Gene
+3442,glutamine synthetase,2,Gene
+3443,polyamine oxidase-2,2,Gene
+3444,wrky11,2,Gene
+3445,tbl3,2,Gene
+3446,ubc9,2,Gene
+3447,cevi-1,2,Gene
+3448,deg15,2,Gene
+3449,tom2a,2,Gene
+3450,nf-ya1,2,Gene
+3451,nrpd2,2,Gene
+3452,p19,2,Gene
+3453,srt1,2,Gene
+3454,ats6k2,2,Gene
+3455,srr1,2,Gene
+3456,cyp38,2,Gene
+3457,iki3,2,Gene
+3458,prp16,2,Gene
+3459,fim5,2,Gene
+3460,upf2,2,Gene
+3461,myb7,2,Gene
+3462,kdo transferase,2,Gene
+3463,atscc3,2,Gene
+3464,hrd3,2,Gene
+3465,morf9,2,Gene
+3466,mapk,2,Gene
+3467,gtg2,2,Gene
+3468,hcf152,2,Gene
+3469,pex4,2,Gene
+3470,cullin,2,Gene
+3471,pti4,2,Gene
+3472,acireductone dioxygenase 1,2,Gene
+3473,dmc1,2,Gene
+3474,profilins,2,Gene
+3475,nrt2.6,2,Gene
+3476,pyruvate orthophosphate dikinase,2,Gene
+3477,strs2,2,Gene
+3478,trh1,2,Gene
+3479,rad23b,2,Gene
+3480,lec1-3,2,Gene
+3481,bnap2,2,Gene
+3482,atsun2,2,Gene
+3483,dre2,2,Gene
+3484,dhar2,2,Gene
+3485,athxk2,2,Gene
+3486,athma1,2,Gene
+3487,hsp90,2,Gene
+3488,atham1,2,Gene
+3489,mlo11,2,Gene
+3490,atfer3,2,Gene
+3491,vat1,2,Gene
+3492,gcp3,2,Gene
+3493,nadh dehydrogenase,2,Gene
+3494,fins1,2,Gene
+3495,sqe1-5,2,Gene
+3496,psaf,2,Gene
+3497,cytokinin response factor 6,2,Gene
+3498,tb1,2,Gene
+3499,atga3ox4,2,Gene
+3500,falsiflora,2,Gene
+3501,hen4,2,Gene
+3502,tousled,2,Gene
+3503,npy1,2,Gene
+3504,hkt1,2,Gene
+3505,atcsp4,2,Gene
+3506,dal1,2,Gene
+3507,attlp1-11,2,Gene
+3508,atox1,2,Gene
+3509,lnk1,2,Gene
+3510,ppd5,2,Gene
+3511,atcngc19,2,Gene
+3512,eds8,2,Gene
+3513,iaa18,2,Gene
+3514,cer26,2,Gene
+3515,gat1_2.1,2,Gene
+3516,coe1,2,Gene
+3517,cdc73,2,Gene
+3518,reil1,2,Gene
+3519,cd2,2,Gene
+3520,ugd2,2,Gene
+3521,bbmii isomerase,2,Gene
+3522,wrky13,2,Gene
+3523,cdc45,2,Gene
+3524,dpp1,2,Gene
+3525,ateci2,2,Gene
+3526,log1log2,2,Gene
+3527,cam3,2,Gene
+3528,camtas2 and 4,2,Gene
+3529,atrz-1c,2,Gene
+3530,ald1,2,Gene
+3531,gfa1,2,Gene
+3532,atscar4,2,Gene
+3533,vps41p,2,Gene
+3534,fra1-5,2,Gene
+3535,hat,2,Gene
+3536,mos11,2,Gene
+3537,rem34,2,Gene
+3538,chr5,2,Gene
+3539,psbq,2,Gene
+3540,cyp82c2,2,Gene
+3541,iaa30,2,Gene
+3542,phr1,2,Gene
+3543,serk1,2,Gene
+3544,spx2,2,Gene
+3545,exo70e1,2,Gene
+3546,isopropyl malate isomerase large sub unit1,2,Gene
+3547,smxl8,2,Gene
+3548,rap2.6,2,Gene
+3549,zmdreb1a,2,Gene
+3550,srt1,2,Gene
+3551,lng2,2,Gene
+3552,spp-1,2,Gene
+3553,loh3,2,Gene
+3554,map18,2,Gene
+3555,lacs4,2,Gene
+3556,cdkg1,2,Gene
+3557,elo3,2,Gene
+3558,cpk2,2,Gene
+3559,pah2,2,Gene
+3560,atcox17,2,Gene
+3561,psk5,2,Gene
+3562,ena1,2,Gene
+3563,sec24,2,Gene
+3564,atubc8,2,Gene
+3565,flot 1,2,Gene
+3566,cm1,2,Gene
+3567,nitrate reductase,2,Gene
+3568,aae15,2,Gene
+3569,prmt5,2,Gene
+3570,hop2-3,2,Gene
+3571,cd95 ligand,2,Gene
+3572,mgt2,2,Gene
+3573,nit3,2,Gene
+3574,rab,2,Gene
+3575,col-4,2,Gene
+3576,hei10,2,Gene
+3577,msh5,2,Gene
+3578,atrecq3,2,Gene
+3579,sen1,2,Gene
+3580,cyp707a4,2,Gene
+3581,adaptor protein complex 4,2,Gene
+3582,atu2af65a,2,Gene
+3583,sweet1,2,Gene
+3584,atsgo1,2,Gene
+3585,atg8f,2,Gene
+3586,pdx3,2,Gene
+3587,phosphoethanolamine n-methyltransferase,2,Gene
+3588,atpb,2,Gene
+3589,protein kinase 1.1; suc,2,Gene
+3590,rgf1,2,Gene
+3591,atacp5,2,Gene
+3592,gcd1,2,Gene
+3593,small acidic protein1,2,Gene
+3594,nack1,2,Gene
+3595,myb60,2,Gene
+3596,arginase,2,Gene
+3597,acp1,2,Gene
+3598,nfd1,2,Gene
+3599,erf115,2,Gene
+3600,clp,2,Gene
+3601,crk45,2,Gene
+3602,atpirin1,2,Gene
+3603,wrn,2,Gene
+3604,hsfa4a,2,Gene
+3605,quartet1,2,Gene
+3606,"beta1,2",2,Gene
+3607,ipmdh1,2,Gene
+3608,phosphatidylcholine transfer protein,2,Gene
+3609,ferredoxin-nadp(h) oxidoreductase,2,Gene
+3610,dir1,2,Gene
+3611,homocysteine methyltransferase,2,Gene
+3612,spi1,2,Gene
+3613,tga10,2,Gene
+3614,ups2,2,Gene
+3615,plp,2,Gene
+3616,icp55,2,Gene
+3617,aap8,2,Gene
+3618,eid1,2,Gene
+3619,siz2,2,Gene
+3620,nhx1,2,Gene
+3621,adrenoleukodystrophy protein,2,Gene
+3622,nmt1-1,2,Gene
+3623,adk1,2,Gene
+3624,bk2,2,Gene
+3625,sc35,2,Gene
+3626,aspartate kinase,2,Gene
+3627,qua-quine starch,2,Gene
+3628,acn1,2,Gene
+3629,dj-1a,2,Gene
+3630,apl4,2,Gene
+3631,atnap,2,Gene
+3632,oli7,2,Gene
+3633,col2,2,Gene
+3634,kiesel,2,Gene
+3635,transketolase,2,Gene
+3636,glc,2,Gene
+3637,acr2,2,Gene
+3638,rsm2,2,Gene
+3639,xtr7,2,Gene
+3640,xcp2,2,Gene
+3641,rwa1/2/3,2,Gene
+3642,yaf9a,2,Gene
+3643,sap,2,Gene
+3644,grf9,2,Gene
+3645,gad1/2,2,Gene
+3646,nsh2,2,Gene
+3647,gcn1,2,Gene
+3648,atcpn60alpha2,2,Gene
+3649,trna(ala),2,Gene
+3650,gip2,2,Gene
+3651,hmt2,2,Gene
+3652,upf1,2,Gene
+3653,flx-like4,2,Gene
+3654,adenosine 5'-phosphosulfate reductase,2,Gene
+3655,ask1,2,Gene
+3656,tkpr1,2,Gene
+3657,trehalose phosphate synthase11,2,Gene
+3658,chlm,2,Gene
+3659,elp6,2,Gene
+3660,ibr3,2,Gene
+3661,mir172b,2,Gene
+3662,rwa1/2/3,2,Gene
+3663,slah3,2,Gene
+3664,opr2,2,Gene
+3665,yabby5,2,Gene
+3666,gal 1,2,Gene
+3667,pmh2,2,Gene
+3668,monodehydroascorbate reductase,2,Gene
+3669,rid2,2,Gene
+3670,glutr-binding protein,2,Gene
+3671,galactokinase,2,Gene
+3672,cdks,2,Gene
+3673,at5g16590,2,Gene
+3674,atgstf10,2,Gene
+3675,atmgd2,2,Gene
+3676,tdr4,2,Gene
+3677,rcy1,2,Gene
+3678,calmodulin7,2,Gene
+3679,gad4,2,Gene
+3680,bnflc.a10,2,Gene
+3681,map65-1 and map65-2,2,Gene
+3682,cipk3,2,Gene
+3683,rps13,2,Gene
+3684,han,2,Gene
+3685,atgpat1,2,Gene
+3686,bomyb2,2,Gene
+3687,alt2,2,Gene
+3688,rrc1,2,Gene
+3689,spo11,2,Gene
+3690,aug8,2,Gene
+3691,hobbit,2,Gene
+3692,dna ligase iv,2,Gene
+3693,csp41a,2,Gene
+3694,s-adenosylmethionine decarboxylase,2,Gene
+3695,ssi2,2,Gene
+3696,paa1,2,Gene
+3697,invertase,2,Gene
+3698,hsp60,2,Gene
+3699,chl d,2,Gene
+3700,ddb1b,2,Gene
+3701,atd-2hgdh,2,Gene
+3702,prp16,2,Gene
+3703,bsk1-1,2,Gene
+3704,gtg1,2,Gene
+3705,otp51,2,Gene
+3706,rfr1,2,Gene
+3707,fumonisin b(1)-resistant12,2,Gene
+3708,ipl1,2,Gene
+3709,ubp1,2,Gene
+3710,psi-e,2,Gene
+3711,adr2,2,Gene
+3712,hop2,2,Gene
+3713,syk,2,Gene
+3714,psbf,2,Gene
+3715,attlp1-11,2,Gene
+3716,cytosolic nadp-dependent isocitrate dehydrogenase,2,Gene
+3717,idl1,2,Gene
+3718,atsmo2,2,Gene
+3719,dihydrodipicolinate synthase,2,Gene
+3720,abcg1,2,Gene
+3721,vsr4,2,Gene
+3722,ap-3 beta,2,Gene
+3723,ydj1,2,Gene
+3724,brca2,2,Gene
+3725,pans2,2,Gene
+3726,bil2,2,Gene
+3727,atubc2,2,Gene
+3728,radially swollen 4,2,Gene
+3729,aterf14,2,Gene
+3730,yuc11,2,Gene
+3731,brca1,2,Gene
+3732,hsf7,2,Gene
+3733,"alpha-, beta-, sigma-, and mu-subunits",2,Gene
+3734,nrt1.2,2,Gene
+3735,cip29,2,Gene
+3736,microtubule organization 1,2,Gene
+3737,dmt1,2,Gene
+3738,tcp10,2,Gene
+3739,hsp90,2,Gene
+3740,gstz-1,2,Gene
+3741,mir390,2,Gene
+3742,ugd3,2,Gene
+3743,pdr5,2,Gene
+3744,clpp5,2,Gene
+3745,atplc9,2,Gene
+3746,udp-glucose 4-epimerase,2,Gene
+3747,vim3,2,Gene
+3748,catalase,2,Gene
+3749,dhfr,2,Gene
+3750,atrae1,2,Gene
+3751,laf1,2,Gene
+3752,e2ff,2,Gene
+3753,atcrr3,2,Gene
+3754,plp,2,Gene
+3755,sulfite reductase,2,Gene
+3756,cat2,2,Gene
+3757,atpp2aa2,2,Gene
+3758,wat1,2,Gene
+3759,gps1,2,Gene
+3760,pup3,2,Gene
+3761,myosin,2,Gene
+3762,rnl,2,Gene
+3763,ckh1,2,Gene
+3764,rotundifolia4,2,Gene
+3765,ph(i),2,Gene
+3766,man2,2,Gene
+3767,sepallata1/2/3,2,Gene
+3768,nbp35,2,Gene
+3769,cphsc70-2,2,Gene
+3770,tps2,2,Gene
+3771,ugt74e2,2,Gene
+0,deltaa535,4,Mutation
+1,p87l,4,Mutation
+2,delta1,4,Mutation
+3,thr(168) to asp,3,Mutation
+4,s359a,3,Mutation
+5,t31n,3,Mutation
+6,tyr-276-to-his,3,Mutation
+7,s6k,2,Mutation
+8,p197l,2,Mutation
+9,r385a,2,Mutation
+10,delta8,2,Mutation
+11,p35s,2,Mutation
+12,asp(122) to asn,2,Mutation
+13,threonine 166 with aspartate,2,Mutation
+14,k27q,2,Mutation
+15,g2a,2,Mutation
+16,d105n,2,Mutation
+17,arg instead of lys at position 48,2,Mutation
+18,d94n,2,Mutation
+19,e203a,2,Mutation
+20,y250f,2,Mutation
+21,y831f,2,Mutation
+22,delta7,2,Mutation
+23,pro234-leu,2,Mutation
+24,ile481val,2,Mutation
+25,proline to serine at position 197,2,Mutation
+26,c156s,2,Mutation
+27,ser-68 to glycine,2,Mutation
+28,e220q,2,Mutation
+29,a 35s,2,Mutation
+30,q71l,2,Mutation
+31,m377v,2,Mutation
+32,arginine 286 to alanine,2,Mutation
+33,s313d,2,Mutation
+34,c294y,2,Mutation
+35,r130a,2,Mutation
+36,delta4,2,Mutation
+37,threonine 166 with aspartate,2,Mutation
+38,d239a,2,Mutation
+39,asn2 for asparagine,2,Mutation
+40,p160s,2,Mutation
+41,d219n,2,Mutation
+42,r338a,2,Mutation
+43,delta6,2,Mutation
+0,infection,430,Disease
+1,hypersensitivity,272,Disease
+2,growth defects,200,Disease
+3,passive hydraulic stomatal,167,Disease
+4,developmental defects,155,Disease
+5,of chromosomes proteins,129,Disease
+6,toxicity,124,Disease
+7,dehydration,117,Disease
+8,hypocotyl elongation,113,Disease
+9,cytokinesis defects,113,Disease
+10,death,111,Disease
+11,necrosis,93,Disease
+12,tumor,84,Disease
+13,polyploidization,77,Disease
+14,abortive meiosis,76,Disease
+15,interveinal leaf chlorosis,74,Disease
+16,developmental arrest,71,Disease
+17,hd-zip,69,Disease
+18,water loss,60,Disease
+19,root growth retardation,56,Disease
+20,meiosis,56,Disease
+21,arf,53,Disease
+22,hyperosmotic stress,43,Disease
+23,nbs,43,Disease
+24,iron deficiency,42,Disease
+25,mitosis i,42,Disease
+26,apc,40,Disease
+27,fitness,35,Disease
+28,impaired chloroplastic nad(p)h dehydrogenase,35,Disease
+29,starch turnover,35,Disease
+30,tips of septal primordia,35,Disease
+31,fungal infection,34,Disease
+32,hypoxia,34,Disease
+33,decreased the disease symptoms,33,Disease
+34,embryonic lethality,32,Disease
+35,wassilewskia accession,30,Disease
+36,nematode-infected,30,Disease
+37,virus infection,29,Disease
+38,short hypocotyls,28,Disease
+39,impaired nmd,28,Disease
+40,retardation,26,Disease
+41,infertility,26,Disease
+42,testa pigmentation,26,Disease
+43,chs,25,Disease
+44,aneuploidy,25,Disease
+45,drought stress,25,Disease
+46,radial swelling,24,Disease
+47,pcd,23,Disease
+48,hypocotyl hook opening,23,Disease
+49,inflorescence abnormalities,23,Disease
+50,bacterial infection,22,Disease
+51,lobe initiation,21,Disease
+52,mitochondrial dysfunction,21,Disease
+53,viral infection,21,Disease
+54,shock,20,Disease
+55,morphological abnormalities,20,Disease
+56,hypertolerance and hyperaccumulation in the extremophile plant species arabidopsis halleri,20,Disease
+57,meiotic divisions,19,Disease
+58,wt,19,Disease
+59,ovaries,19,Disease
+60,arrhythmic,18,Disease
+61,glycerophosphoinositide membrane anchors,18,Disease
+62,embryonic,18,Disease
+63,autoimmunity,17,Disease
+64,ndh,17,Disease
+65,chh hyper,16,Disease
+66,necrotrophic fungal pathogens botrytis cinerea and alternaria brassicicola,16,Disease
+67,cds qds tolerance,16,Disease
+68,schachtii parasitism of arabidopsis,15,Disease
+69,sls,15,Disease
+70,local lesions in genomes,15,Disease
+71,cin,15,Disease
+72,conditions,14,Disease
+73,fd,14,Disease
+74,wd,13,Disease
+75,loss of mmdh,12,Disease
+76,drosophila cell polarity,12,Disease
+77,vacuolar sugar,12,Disease
+78,morphological defects,12,Disease
+79,tetraploidy,11,Disease
+80,complement,11,Disease
+81,depression,11,Disease
+82,synergid degeneration in arabidopsis,11,Disease
+83,import defects,11,Disease
+84,leaf damage,11,Disease
+85,phosphate deficiency,11,Disease
+86,initiation of pollen mitosis,10,Disease
+87,crown galls,10,Disease
+88,pd,10,Disease
+89,fanconi anemia,10,Disease
+90,phenotypic abnormalities,10,Disease
+91,excess copper tolerance,10,Disease
+92,vascular wilt diseases,10,Disease
+93,ups,10,Disease
+94,dh,10,Disease
+95,retinoblastoma,10,Disease
+96,energy deficiency,9,Disease
+97,developmental disorders,9,Disease
+98,rupture,9,Disease
+99,lps,9,Disease
+100,decreased se accumulation,9,Disease
+101,legume-rhizobia symbiosis,9,Disease
+102,excess or deficiency,9,Disease
+103,endophytic colonization,9,Disease
+104,n deficiency,9,Disease
+105,autophagy deficiency,9,Disease
+106,systemic iaa deficiency,9,Disease
+107,arabidopsis to phosphorus deficiency,9,Disease
+108,failure,8,Disease
+109,retarded vegetative,8,Disease
+110,clf,8,Disease
+111,linear energy transfer,8,Disease
+112,decreased freezing tolerance,8,Disease
+113,phd,8,Disease
+114,impact of starch deficiency,8,Disease
+115,hyperactive transcription,8,Disease
+116,longitudinal axis,8,Disease
+117,tic,8,Disease
+118,coat defects,8,Disease
+119,tomato bacterial speck disease,8,Disease
+120,inappropriate glucosinolate hydrolysis,8,Disease
+121,hypertrophy,8,Disease
+122,freezing injury,7,Disease
+123,breast cancer,7,Disease
+124,ploidy reduction,7,Disease
+125,dysfunctional accd,7,Disease
+126,pmes,7,Disease
+127,hyperactive,7,Disease
+128,rigidity,7,Disease
+129,rgs,7,Disease
+130,ataxia telangiectasia,7,Disease
+131,epidermal defects,7,Disease
+132,abscisic acid deficiency increases defence,7,Disease
+133,"infection gained within-host fitness, virulence and infectivity",7,Disease
+134,labor,7,Disease
+135,sl-deficient,7,Disease
+136,sugar-dependent nucleolar stress,7,Disease
+137,structural,6,Disease
+138,genetic lesions,6,Disease
+139,ad,6,Disease
+140,attachment-deficient,6,Disease
+141,sulfur deficiency,6,Disease
+142,agl16-1 deficiency,6,Disease
+143,obesity,6,Disease
+144,hypophysis,6,Disease
+145,insufficiency,6,Disease
+146,mps,6,Disease
+147,glycerol backbone,6,Disease
+148,reduced fitness,6,Disease
+149,developmental anomalies,6,Disease
+150,h(2)o(2) availability,6,Disease
+151,chlorotic lesions,6,Disease
+152,telomeric repeat loss,5,Disease
+153,ectopic lobes,5,Disease
+154,stress damage,5,Disease
+155,loss of negative phototropism,5,Disease
+156,aos,5,Disease
+157,b deficiency,5,Disease
+158,multiple defects,5,Disease
+159,sps,5,Disease
+160,tmd,5,Disease
+161,hyperaccumulates free galactose,5,Disease
+162,diploidization of meiosis,5,Disease
+163,orfs,5,Disease
+164,deformations,5,Disease
+165,local lesions in,5,Disease
+166,overdose,5,Disease
+167,inability,5,Disease
+168,loss of pid activity alters auxin transport and gravitropism,5,Disease
+169,proteostasis,5,Disease
+170,embryonic patterning defects,5,Disease
+171,phototoxic,5,Disease
+172,iron deficiency-responsive element,5,Disease
+173,differential,5,Disease
+174,syringae pathovar tomato strain dc3000 infection,5,Disease
+175,aggressiveness,5,Disease
+176,xylostella host,5,Disease
+177,lines deficient in leaf flatness,5,Disease
+178,nmd factors,4,Disease
+179,cin-tcp,4,Disease
+180,male gametophytic ploidy,4,Disease
+181,callose deposition defects,4,Disease
+182,virulent bacteria,4,Disease
+183,inflammation,4,Disease
+184,sad,4,Disease
+185,back to cytokinesis defects,4,Disease
+186,diabetes,4,Disease
+187,atku suppression,4,Disease
+188,functional,4,Disease
+189,fha,4,Disease
+190,instability defect,4,Disease
+191,complete loss,4,Disease
+192,salt injury,4,Disease
+193,sphingolipid metabolism,4,Disease
+194,pa-deficient,4,Disease
+195,ga deficiency,4,Disease
+196,disruption of the palindromic arrangement,4,Disease
+197,arrhythmic clock,4,Disease
+198,starch and sugar homeostasis,4,Disease
+199,developmental deficiencies,4,Disease
+200,structural abnormalities,4,Disease
+201,mechanical injury,4,Disease
+202,nmd-sensitive as,4,Disease
+203,partial deficiency,4,Disease
+204,ovule primordia,4,Disease
+205,c deficiency,4,Disease
+206,organisms,4,Disease
+207,epidermal cell file rotation,4,Disease
+208,glycosylation disorders,4,Disease
+209,mitochondrial complex i defects,4,Disease
+210,coordination,4,Disease
+211,mucopolysaccharidosis i,4,Disease
+212,s arrest,4,Disease
+213,cystic fibrosis,4,Disease
+214,tgd,4,Disease
+215,hypocotyls of both columbia,4,Disease
+216,retention declines,4,Disease
+217,zinc deficiency,4,Disease
+218,mites,4,Disease
+219,soft rot disease,4,Disease
+220,neurodegenerative diseases,4,Disease
+221,galactosyltransferases,4,Disease
+222,tetrad dissociation,3,Disease
+223,ppd,3,Disease
+224,energy deprivation,3,Disease
+225,igs,3,Disease
+226,stress,3,Disease
+227,acute myeloid leukemia,3,Disease
+228,hyphal branching of arbuscular mycorrhizal fungi,3,Disease
+229,disordered,3,Disease
+230,hyper,3,Disease
+231,affect starch turnover,3,Disease
+232,infestans inoculation,3,Disease
+233,peroxisomal deficiencies,3,Disease
+234,adaptive fitness landscape,3,Disease
+235,eds,3,Disease
+236,anomalous diurnal oscillation,3,Disease
+237,ra,3,Disease
+238,sudden heat shock,3,Disease
+239,cmls,3,Disease
+240,fungal disease,3,Disease
+241,intrinsic disorder,3,Disease
+242,cpd,3,Disease
+243,cleft,3,Disease
+244,hbl-induced hypocotyl phototropism,3,Disease
+245,hyperplasia,3,Disease
+246,als,3,Disease
+247,carotenoid biosynthesis deficient,3,Disease
+248,vasculature defects,3,Disease
+249,xdh,3,Disease
+250,halleri x arabidopsis lyrata backcross,3,Disease
+251,longitudinal,3,Disease
+252,psd,3,Disease
+253,artificial damage,3,Disease
+254,ht,3,Disease
+255,tuber carbohydrate metabolism,3,Disease
+256,carcinogenic,3,Disease
+257,uv damage,3,Disease
+258,lysosomal storage diseases,3,Disease
+259,neuroblastoma,3,Disease
+260,mbs,3,Disease
+261,crucial sic component,3,Disease
+262,catalytic efficiencies,3,Disease
+263,disruption of the fe deficiency,3,Disease
+264,emerging floral primordia,3,Disease
+265,von,3,Disease
+266,aa deficiency,3,Disease
+267,impaired fpgs function,3,Disease
+268,stoma cell file,3,Disease
+269,branch position defects,3,Disease
+270,hereditary non-polyposis colorectal cancer,3,Disease
+271,respiratory-deficient,3,Disease
+272,severe foliar injury,3,Disease
+273,"osarf-osarf, 2 atarf-atarf and 2 atarf-osarf",3,Disease
+274,had,3,Disease
+275,metabolic disease ethylmalonic encephalopathy,3,Disease
+276,non-visual,3,Disease
+277,blind,3,Disease
+278,aggregation,3,Disease
+279,intracellular rhizobia,3,Disease
+280,cms,3,Disease
+281,ascorbate deficiency,3,Disease
+282,af,3,Disease
+283,leukemias,2,Disease
+284,impairment of cef and thermal energy dissipation,2,Disease
+285,hepatoma,2,Disease
+286,oxidase-deficient rbohd,2,Disease
+287,ch(3)scn synthesis,2,Disease
+288,atchip interacts,2,Disease
+289,aps,2,Disease
+290,fe deficiency signal,2,Disease
+291,idd,2,Disease
+292,beneficial rhizobacteria,2,Disease
+293,humidity oscillation,2,Disease
+294,arabidopsis hops,2,Disease
+295,npc,2,Disease
+296,octamer words,2,Disease
+297,glutathione deficiency,2,Disease
+298,genetic disorder bloom's syndrome,2,Disease
+299,short pls repeat,2,Disease
+300,nmd process,2,Disease
+301,photosystem ii deficiency,2,Disease
+302,arabidopsis s-adenosylhomocysteine hydrolase,2,Disease
+303,mitotic defects,2,Disease
+304,lutein deficient,2,Disease
+305,csd,2,Disease
+306,declines abruptly,2,Disease
+307,inherited bone marrow failure syndrome,2,Disease
+308,hsd,2,Disease
+309,cuticular deficiencies,2,Disease
+310,galactosyl epitopes,2,Disease
+311,hit,2,Disease
+312,sos,2,Disease
+313,adhesion defect,2,Disease
+314,arabidopsis thaliana encode arfs,2,Disease
+315,sid,2,Disease
+316,impairs abiotic stress tolerances,2,Disease
+317,long trfs,2,Disease
+318,deficiency in xylan xylt activity,2,Disease
+319,myosin-deficient,2,Disease
+320,carotenoid-deficient,2,Disease
+321,nutritional disorder,2,Disease
+322,intrachromosomal hr,2,Disease
+323,werner (wrn) syndrome,2,Disease
+324,charcot-marie-tooth disease,2,Disease
+325,hardness,2,Disease
+326,hypotonic vacuole,2,Disease
+327,cho-h(4)pteglu,2,Disease
+328,fusarium floral infection,2,Disease
+329,clarkia species,2,Disease
+330,vicia root tip chromosome breaks,2,Disease
+331,alf,2,Disease
+332,metabolic acidosis,2,Disease
+333,aspergillus nidulans hxb,2,Disease
+334,type ii nad(p)h quinone oxidoreductase,2,Disease
+335,block ectopic meiosis,2,Disease
+336,caenorhabditis elegans pcs,2,Disease
+337,ops,2,Disease
+338,transformation efficiencies,2,Disease
+339,acid,2,Disease
+340,hem,2,Disease
+341,vsds,2,Disease
+342,loss of ovule initiation,2,Disease
+343,rhythmic defects,2,Disease
+344,catalase deficiency,2,Disease
+345,dyskeratosis congenita,2,Disease
+346,marginal reduction,2,Disease
+347,ws,2,Disease
+348,ec 6.4.1.4; mcc) deficiency,2,Disease
+349,cps-deficient,2,Disease
+350,auxotrophy of the dhap reductase-deficient escherichia coli gpsa,2,Disease
+351,deficiency of mitochondrion function,2,Disease
+352,fhl,2,Disease
+353,cardiac disorder,2,Disease
+354,rhizoctonia isolates,2,Disease
+355,fatty acyl reductase,2,Disease
+356,immature gynoecia,2,Disease
+357,lcd,2,Disease
+358,melanoma,2,Disease
+359,defects overlaps,2,Disease
+360,defect impairs invasion,2,Disease
+361,menkes disease,2,Disease
+362,prd,2,Disease
+363,blood coagulation,2,Disease
+364,friedreich's ataxia,2,Disease
+365,rudimentary,2,Disease
+366,gsh-deficient,2,Disease
+367,eye imaginal discs,2,Disease
+368,nocardia genus,2,Disease
+369,stomata aperture,2,Disease
+370,hpa,2,Disease
+371,igs,2,Disease
+372,alp,2,Disease
+373,rpn,2,Disease
+374,reductase deficiency,2,Disease
+375,arabidopsis acyl lipid metabolism,2,Disease
+376,hi,2,Disease
+377,male infertility,2,Disease
+378,chc,2,Disease
+379,deficiency of fah,2,Disease
+380,cytosolic fes cluster deficient,2,Disease
+381,contiguous repeats,2,Disease
+382,pts1 import,2,Disease
+383,tsd,2,Disease
+384,leigh syndrome,2,Disease
+385,ird,2,Disease
+386,magnesium deficiency,2,Disease
+387,solid,2,Disease
+388,amino acid deficiency,2,Disease
+389,extreme retardation,2,Disease
+390,short hypocotyl length,2,Disease
+391,multidrugs,2,Disease
+392,sah,2,Disease
+393,lactic acidemia,2,Disease
+394,photosystem (ps)i,2,Disease
+395,loss of gi function,2,Disease
+396,drosophila members,2,Disease
+397,stomata closure defects,2,Disease
+398,pp2a-b'alphabeta,2,Disease
+399,mm calculations,2,Disease
+400,meiosis ii mii spindles,2,Disease
+401,attenuated fitness,2,Disease
+402,salicylic acid deficiency,2,Disease
+403,compensation syndrome,2,Disease
+404,columbia arabidopsis dry,2,Disease
+405,drosophila synaptic,2,Disease
+406,leucine catabolism,2,Disease
+407,content deficiency,2,Disease
+408,atxr2-arf-lbd axis,2,Disease
+409,chilling injury,2,Disease
+410,deficient in hr repair,2,Disease
